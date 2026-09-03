@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtiyav08vd805e",
+      "x": 675.6,
+      "y": 358.11562499999997,
+      "w": 120,
+      "type": "board",
+      "path": "Gehenna.board",
+      "title": "Gehenna",
+      "h": 95.38437500000003
+    }
+  ],
+  "edges": []
+}

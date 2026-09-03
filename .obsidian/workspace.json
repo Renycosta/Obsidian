@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "3e2e35664202a1a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0e9e43eef7e0056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9aff864f81e67d1",
+            "type": "leaf",
+            "state": {
+              "type": "maguilanote-board",
+              "state": {
+                "file": "Milanote/Gehenna/Personagens/Shanoa.board"
+              },
+              "icon": "layout-dashboard",
+              "title": "Shanoa"
+            }
+          },
+          {
+            "id": "31a06f974da03312",
+            "type": "leaf",
+            "state": {
+              "type": "maguilanote-board",
+              "state": {
+                "file": "Milanote/Gehenna/Personagens.board"
+              },
+              "icon": "layout-dashboard",
+              "title": "Personagens"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "189e3b4e8b1758de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e165786122b82c68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca84abbf942f503",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "c1341577ef0550e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6b9269ede3d22743",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d69148ee178a3769",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a02ef52b07048b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df36f4e444332a90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem título.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "12ae5af4bb08c3ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem título.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "f47128df77e082bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fa794a99f9bc7249",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "ff29cd4f54e7b103",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem título.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "9b7a4e7e591f5b12",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "30769b02d5dc0569",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "maguilanote:Maguilanote: new board": false,
+      "rich-table:Insert rich-table block": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "31a06f974da03312",
+  "lastOpenFiles": [
+    "Milanote/Gehenna.board",
+    "Milanote/Gehenna/Personagens/Ísis/Ísis.board",
+    "Milanote/Gehenna/Personagens.board",
+    "Milanote/Gehenna/Personagens/Shanoa/Shanoa.board",
+    "Milanote/Gehenna/Personagens/Morgana/Morgana.board",
+    "Milanote/Gehenna/Personagens/Carmillia/Carmillia.board",
+    "Milanote/Gehenna/Personagens/Ísis/isis_contexto.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_aparencia.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_backstory.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_curiosidades.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_inspiracoes.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_perfil.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_personalidade.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_relacoes.md",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_contexto.md",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_relacoes.md",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_personalidade.md",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_contexto.md",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_aparencia.md",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_curiosidades.md",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_perfil.md",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_backstory.md",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_perfil.md",
+    "Milanote/Gehenna/Personagens/Rafael/Rafael.board",
+    "Milanote/Gehenna/Personagens/Ísis",
+    "Maguilanote Assets/Clancy.webp",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_backstory.md",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_inspiracoes.md",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_curiosidades.md",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_relacoes.md",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_personalidade.md",
+    "Milanote/Gehenna/Personagens/Rafael/rafael_aparencia.md",
+    "Milanote/Gehenna/Personagens/Rafael",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_perfil.md",
+    "Milanote/Gehenna/Personagens/Morgana/morgana_perfil.md",
+    "Milanote.board",
+    "Maguilanote Assets/Morgana-2.jpeg",
+    "Maguilanote Assets/Morgana-1.jpeg",
+    "Maguilanote Assets/Morgana.jpeg",
+    "Maguilanote Assets/WhatsApp Image 2026-08-30 at 23.00.15.jpeg",
+    "Maguilanote Assets/image.png",
+    "Maguilanote Assets/image-1.png",
+    "Modelo_Ficha_Personagem.canvas",
+    "_Assets/Images/image.png",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}

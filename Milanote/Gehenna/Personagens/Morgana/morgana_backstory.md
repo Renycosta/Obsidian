@@ -1,0 +1,3 @@
+Viveu toda a sua vida em um orfanato catôlico, mas isso não a impediu que se tornasse uma anarquista e adquirisse um forte conhecimento sobre magia e se virasse uma maga conhecida, entretanto devido a não possuir uma linhagem de sangue nobre e ser de classe social baixa ela não é respeitada entre a maioria dos magos.
+
+Em uma de suas aventuras após enfrentar a até não conhecida nesse momento a demônio siren, ela acaba sendo colocada em um hospital psiquiátrico durante anos, mas após um certo periodo de tempo ela é inserida de volta a sociedade, mas sem dinheiro e sem outra opção ela terá que voltar a se tornar a maga que um dia já foi.

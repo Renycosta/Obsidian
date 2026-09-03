@@ -1,0 +1,4 @@
+.markdown-rendered th, 
+.markdown-rendered td {
+  border: 1px solid var(--background-modifier-border) !important;
+}

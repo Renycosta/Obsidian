@@ -1,0 +1,19 @@
+.markdown-embed {
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.markdown-embed-content {
+  padding: 0 !important;
+}
+
+.markdown-embed ul, 
+.markdown-embed ol, 
+.markdown-embed li {
+  font-size: 13px !important; 
+}
+
+.markdown-embed li {
+  margin-bottom: 4px !important;
+}

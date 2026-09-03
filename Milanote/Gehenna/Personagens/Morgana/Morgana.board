@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtiyf3ngyytfho",
+      "x": -6430.939113318963,
+      "y": -728.9207954998125,
+      "w": 288.7999999999997,
+      "type": "column",
+      "title": "Perfil",
+      "h": 578.628125
+    },
+    {
+      "id": "mtizkmk26rz9mk",
+      "x": -2920.790625,
+      "y": -57.6,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_perfil]]",
+      "parent": "mtiyf3ngyytfho",
+      "order": 2
+    },
+    {
+      "id": "mtj4wqjs527wxd",
+      "x": -6104.657740739965,
+      "y": -724.5700123753031,
+      "w": 300,
+      "type": "column",
+      "title": "Aparência Física"
+    },
+    {
+      "id": "mtj4xngqz01xgk",
+      "x": -5727.614063671618,
+      "y": -669.532670587684,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_aparencia]]",
+      "parent": "mtj4wqjs527wxd",
+      "order": 0
+    },
+    {
+      "id": "mtj4zli8zlybbq",
+      "x": -6103.8417048363435,
+      "y": -394.5037855394764,
+      "w": 300,
+      "type": "column",
+      "title": "Personalidade e Psicologia"
+    },
+    {
+      "id": "mtj4zli8irqjmu",
+      "x": -5727.614063671618,
+      "y": -669.532670587684,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_personalidade]]",
+      "parent": "mtj4zli8zlybbq",
+      "order": 0
+    },
+    {
+      "id": "mtj5g27vg12qm1",
+      "x": -5767.153081857718,
+      "y": -721.1417248570625,
+      "w": 300,
+      "type": "column",
+      "title": "Relações"
+    },
+    {
+      "id": "mtj5g27v9f6tjy",
+      "x": -5727.614063671618,
+      "y": -669.532670587684,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_relacoes]]",
+      "parent": "mtj5g27vg12qm1",
+      "order": 0
+    },
+    {
+      "id": "mtj5kdgrjy6qrk",
+      "x": -5768.632414503701,
+      "y": -463.94536156153345,
+      "w": 300,
+      "type": "column",
+      "title": "Contexto"
+    },
+    {
+      "id": "mtj5kdgraqb8pp",
+      "x": -5727.614063671618,
+      "y": -669.532670587684,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_contexto]]",
+      "parent": "mtj5kdgrjy6qrk",
+      "order": 0
+    },
+    {
+      "id": "mtj5u53rjykcsq",
+      "x": -5427.707802982409,
+      "y": -718.1711299337861,
+      "w": 300,
+      "type": "column",
+      "title": "Curiosidades"
+    },
+    {
+      "id": "mtj5u53r8pl3e6",
+      "x": -5727.614063671618,
+      "y": -669.532670587684,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_curiosidades]]",
+      "parent": "mtj5u53rjykcsq",
+      "order": 0
+    },
+    {
+      "id": "mtj60w8t0gz92q",
+      "x": -5099.214231124579,
+      "y": -716.7339196830993,
+      "w": 300,
+      "type": "column",
+      "title": "Inspirações"
+    },
+    {
+      "id": "mtj60w8to7jbjl",
+      "x": -5727.614063671618,
+      "y": -669.532670587684,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_inspiracoes]]",
+      "parent": "mtj60w8t0gz92q",
+      "order": 0
+    },
+    {
+      "id": "mtj64ed3nzqn0u",
+      "x": -5098.352344963864,
+      "y": -551.1296206618081,
+      "w": 300,
+      "type": "column",
+      "title": "Backstory"
+    },
+    {
+      "id": "mtj64ed3kdyo82",
+      "x": -5727.614063671618,
+      "y": -669.532670587684,
+      "w": 260,
+      "type": "note",
+      "text": "![[morgana_backstory]]",
+      "parent": "mtj64ed3nzqn0u",
+      "order": 0
+    },
+    {
+      "id": "mtj6p5b24b91l2",
+      "x": -6408.511956988324,
+      "y": -371.19367276705225,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/Morgana-2.jpeg",
+      "parent": "mtiyf3ngyytfho",
+      "order": 1
+    }
+  ],
+  "edges": []
+}

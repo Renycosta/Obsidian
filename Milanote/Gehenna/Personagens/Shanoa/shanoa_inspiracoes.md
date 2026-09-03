@@ -1,0 +1,3 @@
+- Constantine(Hellblazer)
+- Shanoa(Castlevania)
+

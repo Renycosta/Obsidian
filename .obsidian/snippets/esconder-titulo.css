@@ -1,0 +1,22 @@
+.markdown-embed-title {
+  display: none !important;
+}
+
+.markdown-embed {
+  border-left: none !important;
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+.markdown-embed-content {
+  padding: 0 !important;
+}
+
+.markdown-embed table {
+  font-size: 13px !important;
+}
+
+.markdown-embed th, 
+.markdown-embed td {
+  padding: 4px 8px !important; 
+}

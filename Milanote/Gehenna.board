@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtiybl40cwnfrj",
+      "x": 504.79999999999995,
+      "y": 337.6140625,
+      "w": 120,
+      "type": "board",
+      "path": "Personagens.board",
+      "title": "Personagens",
+      "color": "#f3af8a",
+      "h": 92.984375
+    }
+  ],
+  "edges": []
+}
