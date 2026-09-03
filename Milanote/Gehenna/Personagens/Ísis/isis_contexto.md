@@ -4,7 +4,7 @@
 | Passatempo:       | Ver filmes, Ler   |
 | Classe social:    | Media             |
 | Linguas:          | Diversas          |
-| Comida favo:      | ----------------- |
-| Comida des:       | ----------------- |
+| Comida favo:      | Alaminuta         |
+| Comida des:       | Uva               |
 | Sangue:           | B-                |
 

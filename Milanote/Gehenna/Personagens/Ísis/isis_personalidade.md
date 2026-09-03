@@ -2,8 +2,8 @@
 | -------------- | --------------------------------- |
 | Virtudes:      | Linguística, conhecimentos gerais |
 | Defeitos:      | Não possui noção de tempo         |
-| Medos:         | --------------------              |
-| Motivação:     | --------------------              |
-| Curto prazo:   | --------------------              |
-| Longo prazo:   | --------------------              |
+| Medos:         | Nenhum                            |
+| Motivação:     | Conseguir ter uma vida normal     |
+| Curto prazo:   | Despistar a sociedade da virtude  |
+| Longo prazo:   | Voltar a ter noção de tempo       |
 

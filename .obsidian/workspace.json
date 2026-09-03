@@ -25,10 +25,10 @@
             "state": {
               "type": "maguilanote-board",
               "state": {
-                "file": "Milanote/Gehenna/Personagens.board"
+                "file": "Milanote/Gehenna/Personagens/Ísis/Ísis.board"
               },
               "icon": "layout-dashboard",
-              "title": "Personagens"
+              "title": "Ísis"
             }
           }
         ],
@@ -226,20 +226,21 @@
   },
   "active": "31a06f974da03312",
   "lastOpenFiles": [
-    "Milanote/Gehenna.board",
-    "Milanote/Gehenna/Personagens/Ísis/Ísis.board",
-    "Milanote/Gehenna/Personagens.board",
-    "Milanote/Gehenna/Personagens/Shanoa/Shanoa.board",
-    "Milanote/Gehenna/Personagens/Morgana/Morgana.board",
-    "Milanote/Gehenna/Personagens/Carmillia/Carmillia.board",
-    "Milanote/Gehenna/Personagens/Ísis/isis_contexto.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_aparencia.md",
+    "Milanote/Gehenna/Personagens/Ísis/Ísis.board",
     "Milanote/Gehenna/Personagens/Ísis/isis_backstory.md",
+    "Milanote/Gehenna/Personagens/Ísis/isis_contexto.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_curiosidades.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_perfil.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_personalidade.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_relacoes.md",
+    "Milanote/Gehenna/Personagens/Morgana/morgana_backstory.md",
+    "Milanote/Gehenna/Personagens/Morgana/Morgana.board",
+    "Milanote/Gehenna/Personagens.board",
+    "Milanote/Gehenna.board",
+    "Milanote/Gehenna/Personagens/Shanoa/Shanoa.board",
+    "Milanote/Gehenna/Personagens/Carmillia/Carmillia.board",
     "Milanote/Gehenna/Personagens/Rafael/rafael_contexto.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_relacoes.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_personalidade.md",
@@ -260,7 +261,6 @@
     "Milanote/Gehenna/Personagens/Rafael/rafael_aparencia.md",
     "Milanote/Gehenna/Personagens/Rafael",
     "Milanote/Gehenna/Personagens/Carmillia/carmillia_perfil.md",
-    "Milanote/Gehenna/Personagens/Morgana/morgana_perfil.md",
     "Milanote.board",
     "Maguilanote Assets/Morgana-2.jpeg",
     "Maguilanote Assets/Morgana-1.jpeg",
