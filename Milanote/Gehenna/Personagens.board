@@ -54,6 +54,17 @@
       "title": "Ísis",
       "h": 96,
       "color": "#ffbd52"
+    },
+    {
+      "id": "mtmyeqezb4v2uc",
+      "x": 912,
+      "y": -96,
+      "w": 120,
+      "type": "board",
+      "path": "Milanote/Gehenna/Personagens/Hanna/Hanna.board",
+      "title": "Hanna",
+      "h": 72,
+      "color": "#98d699"
     }
   ],
   "edges": []
