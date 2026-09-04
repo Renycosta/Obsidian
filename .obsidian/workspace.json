@@ -23,12 +23,14 @@
             "id": "31a06f974da03312",
             "type": "leaf",
             "state": {
-              "type": "maguilanote-board",
+              "type": "markdown",
               "state": {
-                "file": "Milanote/Gehenna/Personagens/Ísis/Ísis.board"
+                "file": "Milanote/Gehenna/Personagens/Carmillia/carmillia_personalidade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "layout-dashboard",
-              "title": "Ísis"
+              "icon": "lucide-file",
+              "title": "carmillia_personalidade"
             }
           }
         ],
@@ -226,8 +228,17 @@
   },
   "active": "31a06f974da03312",
   "lastOpenFiles": [
-    "Milanote/Gehenna/Personagens/Ísis/isis_aparencia.md",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_perfil.md",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_inspiracoes.md",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_curiosidades.md",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_contexto.md",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_backstory.md",
+    "Milanote/Gehenna/Personagens/Carmillia/Carmillia.board",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_personalidade.md",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_relacoes.md",
+    "Milanote/Gehenna/Personagens/Carmillia/carmillia_aparencia.md",
     "Milanote/Gehenna/Personagens/Ísis/Ísis.board",
+    "Milanote/Gehenna/Personagens/Ísis/isis_aparencia.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_backstory.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_contexto.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_curiosidades.md",
@@ -240,7 +251,6 @@
     "Milanote/Gehenna/Personagens.board",
     "Milanote/Gehenna.board",
     "Milanote/Gehenna/Personagens/Shanoa/Shanoa.board",
-    "Milanote/Gehenna/Personagens/Carmillia/Carmillia.board",
     "Milanote/Gehenna/Personagens/Rafael/rafael_contexto.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_relacoes.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_personalidade.md",
@@ -249,18 +259,10 @@
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_curiosidades.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_perfil.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_backstory.md",
-    "Milanote/Gehenna/Personagens/Rafael/rafael_perfil.md",
     "Milanote/Gehenna/Personagens/Rafael/Rafael.board",
     "Milanote/Gehenna/Personagens/Ísis",
     "Maguilanote Assets/Clancy.webp",
-    "Milanote/Gehenna/Personagens/Rafael/rafael_backstory.md",
-    "Milanote/Gehenna/Personagens/Rafael/rafael_inspiracoes.md",
-    "Milanote/Gehenna/Personagens/Rafael/rafael_curiosidades.md",
-    "Milanote/Gehenna/Personagens/Rafael/rafael_relacoes.md",
-    "Milanote/Gehenna/Personagens/Rafael/rafael_personalidade.md",
-    "Milanote/Gehenna/Personagens/Rafael/rafael_aparencia.md",
     "Milanote/Gehenna/Personagens/Rafael",
-    "Milanote/Gehenna/Personagens/Carmillia/carmillia_perfil.md",
     "Milanote.board",
     "Maguilanote Assets/Morgana-2.jpeg",
     "Maguilanote Assets/Morgana-1.jpeg",

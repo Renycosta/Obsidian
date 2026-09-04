@@ -1,3 +1,4 @@
+- Shanoa e Carmillia são praticamente opostas 
 - Os gatos não gostam dela, mas os cachorros a amam
 - Por mais que ela tenha muita educação, perto da Shanoa ela perde essa educação
 - Mesmo que ela seja muito arrogante, essa arrogância é "justificada" devido a todas as suas habilidades e conhecimentos
