@@ -101,32 +101,12 @@
       "title": "Curiosidades"
     },
     {
-      "id": "mtj5u53r8pl3e6",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[rafael_curiosidades]]",
-      "parent": "mtj5u53rjykcsq",
-      "order": 0
-    },
-    {
       "id": "mtj60w8t0gz92q",
       "x": -5099.214231124579,
       "y": -716.7339196830993,
       "w": 300,
       "type": "column",
       "title": "Inspirações"
-    },
-    {
-      "id": "mtj60w8to7jbjl",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[rafael_inspiracoes]]",
-      "parent": "mtj60w8t0gz92q",
-      "order": 0
     },
     {
       "id": "mtj64ed3nzqn0u",
@@ -137,16 +117,6 @@
       "title": "Backstory"
     },
     {
-      "id": "mtj64ed3kdyo82",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[rafael_backstory]]",
-      "parent": "mtj64ed3nzqn0u",
-      "order": 0
-    },
-    {
       "id": "mtk3uoberupgwa",
       "x": -6408,
       "y": -648,
@@ -154,6 +124,36 @@
       "type": "image",
       "path": "Maguilanote Assets/Clancy.webp",
       "parent": "mtiyf3ngyytfho",
+      "order": 0
+    },
+    {
+      "id": "mtxkrt2fjhdyrh",
+      "x": -5424,
+      "y": -864,
+      "w": 260,
+      "type": "note",
+      "text": "- Rafael tem um enorme fascínio, por insetos chegando ao ponto que toda a sua magia tem alguma relação com insetos\n- A casa de Rafael é muito limpa e organizada\n- Possui alguns insetos de estimação (aranhas, centopeias, lagartas, besouros)\n- A sua principal magia é uma centopeia que quando colocada dentro da boca de uma pessoa ela se torna incapaz de mentir",
+      "parent": "mtj5u53rjykcsq",
+      "order": 0
+    },
+    {
+      "id": "mtxksbnt46ngqj",
+      "x": -5088,
+      "y": -648,
+      "w": 260,
+      "type": "note",
+      "text": "- Clancy(Ben 10)",
+      "parent": "mtj60w8t0gz92q",
+      "order": 0
+    },
+    {
+      "id": "mtxkste9vgkura",
+      "x": -5040,
+      "y": -528,
+      "w": 260,
+      "type": "note",
+      "text": "",
+      "parent": "mtj64ed3nzqn0u",
       "order": 0
     }
   ],

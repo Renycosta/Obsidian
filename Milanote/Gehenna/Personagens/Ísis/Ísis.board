@@ -111,32 +111,12 @@
       "title": "Curiosidades"
     },
     {
-      "id": "mtj5u53r8pl3e6",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[isis_curiosidades]]",
-      "parent": "mtj5u53rjykcsq",
-      "order": 0
-    },
-    {
       "id": "mtj60w8t0gz92q",
       "x": -5099.214231124579,
       "y": -716.7339196830993,
       "w": 300,
       "type": "column",
       "title": "Inspirações"
-    },
-    {
-      "id": "mtj60w8to7jbjl",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[isis_inspiracoes]]",
-      "parent": "mtj60w8t0gz92q",
-      "order": 0
     },
     {
       "id": "mtj64ed3nzqn0u",
@@ -147,14 +127,34 @@
       "title": "Backstory"
     },
     {
-      "id": "mtj64ed3kdyo82",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
+      "id": "mtxkisty3wqvu6",
+      "x": -5400,
+      "y": -744,
       "w": 260,
       "type": "note",
-      "text": "![[isis_backstory]]",
-      "parent": "mtj64ed3nzqn0u",
+      "text": "- Na sua casa existem diversos artefatos históricos e inúmeras fotos dela própria em locais e eras do tempo diferente\n- Devido a sua imortalidade ela não possui uma noção de tempo, causando com que ela seja uma das piores pessoas para compromissos\n- Por mais que a sua imortalidade tem relação com magia Íris não possui nem conhecimento sobre magia\n- Ísis ama o fato de ser imortal, pois ela é capaz de consumir o máximo de obras de arte possível\n- Não possui interesse em saber a razão de ser imortal",
+      "parent": "mtj5u53rjykcsq",
       "order": 0
+    },
+    {
+      "id": "mtxkjh3gxjy1nr",
+      "x": -5112,
+      "y": -672,
+      "w": 260,
+      "type": "note",
+      "text": "- Mort cinder(Mort cinder)\n- jason blood(Etrigan)\n",
+      "parent": "mtj60w8t0gz92q",
+      "order": 0
+    },
+    {
+      "id": "mtxklpg068sazi",
+      "x": -5256,
+      "y": -480,
+      "w": 260,
+      "type": "note",
+      "text": "Ísis é a personagem mais antiga em Gehenna, não se tem conhecimento em que ano exatamente ela nasceu, mas a sua memoria mais antiga vem 3000AC. A própria se intitula como uma mulher imortal, devido ao fato que ela não envelhece e ao mesmo tempo é incapaz de ser morta.\n\nJá viveu em diversos países e aprendeu diversas línguas, mas atualmente ela está vivendo no Brasil em busca despistar a sociedade da magia, que estão interessados nessa imortalidade que ela possui, por essa razão ela acaba conhecendo a Shanoa.",
+      "parent": "mtj64ed3nzqn0u",
+      "order": 1
     }
   ],
   "edges": []

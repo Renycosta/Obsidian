@@ -1,3 +1,0 @@
-Ísis é a personagem mais antiga em Gehenna, não se tem conhecimento em que ano exatamente ela nasceu, mas a sua memoria mais antiga vem 3000AC. A própria se intitula como uma mulher imortal, devido ao fato que ela não envelhece e ao mesmo tempo é incapaz de ser morta.
-
-Já viveu em diversos países e aprendeu diversas línguas, mas atualmente ela está vivendo no Brasil em busca despistar a sociedade da magia, que estão interessados nessa imortalidade que ela possui, por essa razão ela acaba conhecendo a Shanoa.

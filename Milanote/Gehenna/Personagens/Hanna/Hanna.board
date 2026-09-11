@@ -111,32 +111,12 @@
       "title": "Curiosidades"
     },
     {
-      "id": "mtj5u53r8pl3e6",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[hanna_curiosidades]]",
-      "parent": "mtj5u53rjykcsq",
-      "order": 0
-    },
-    {
       "id": "mtj60w8t0gz92q",
       "x": -5099.214231124579,
       "y": -716.7339196830993,
       "w": 300,
       "type": "column",
       "title": "Inspirações"
-    },
-    {
-      "id": "mtj60w8to7jbjl",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[hanna_inspiracoes]]",
-      "parent": "mtj60w8t0gz92q",
-      "order": 0
     },
     {
       "id": "mtj64ed3nzqn0u",
@@ -147,12 +127,32 @@
       "title": "Backstory"
     },
     {
-      "id": "mtj64ed3kdyo82",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
+      "id": "mtxkgula3rmepd",
+      "x": -5400,
+      "y": -672,
       "w": 260,
       "type": "note",
-      "text": "![[hanna_backstory]]",
+      "text": "- Por mais que ela tenha 1.75cm de altura, perto do grupo da Shanoa ela é a mais baixa, o que a acaba deixando ela irritada ",
+      "parent": "mtj5u53rjykcsq",
+      "order": 0
+    },
+    {
+      "id": "mtxkhdf5esvuwu",
+      "x": -5136,
+      "y": -672,
+      "w": 260,
+      "type": "note",
+      "text": "- hoppy hopscotch(Poppy Playtime)",
+      "parent": "mtj60w8t0gz92q",
+      "order": 0
+    },
+    {
+      "id": "mtxkmpej1gjj17",
+      "x": -5064,
+      "y": -480,
+      "w": 260,
+      "type": "note",
+      "text": "",
       "parent": "mtj64ed3nzqn0u",
       "order": 0
     }

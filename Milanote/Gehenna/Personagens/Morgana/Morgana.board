@@ -101,32 +101,12 @@
       "title": "Curiosidades"
     },
     {
-      "id": "mtj5u53r8pl3e6",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[morgana_curiosidades]]",
-      "parent": "mtj5u53rjykcsq",
-      "order": 0
-    },
-    {
       "id": "mtj60w8t0gz92q",
       "x": -5099.214231124579,
       "y": -716.7339196830993,
       "w": 300,
       "type": "column",
       "title": "Inspirações"
-    },
-    {
-      "id": "mtj60w8to7jbjl",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[morgana_inspiracoes]]",
-      "parent": "mtj60w8t0gz92q",
-      "order": 0
     },
     {
       "id": "mtj64ed3nzqn0u",
@@ -137,16 +117,6 @@
       "title": "Backstory"
     },
     {
-      "id": "mtj64ed3kdyo82",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[morgana_backstory]]",
-      "parent": "mtj64ed3nzqn0u",
-      "order": 0
-    },
-    {
       "id": "mtj6p5b24b91l2",
       "x": -6408.511956988324,
       "y": -371.19367276705225,
@@ -155,6 +125,36 @@
       "path": "Maguilanote Assets/Morgana-2.jpeg",
       "parent": "mtiyf3ngyytfho",
       "order": 1
+    },
+    {
+      "id": "mtxkooorig1ab2",
+      "x": -5424,
+      "y": -696,
+      "w": 260,
+      "type": "note",
+      "text": "- A aparência de morgana não combina com sua personalidade\n- Ama TBOI (main azazel)",
+      "parent": "mtj5u53rjykcsq",
+      "order": 0
+    },
+    {
+      "id": "mtxkpeyxakrmo0",
+      "x": -5040,
+      "y": -696,
+      "w": 260,
+      "type": "note",
+      "text": "- morana(Mewgenics)",
+      "parent": "mtj60w8t0gz92q",
+      "order": 0
+    },
+    {
+      "id": "mtxkq8rzhhh55z",
+      "x": -5112,
+      "y": -504,
+      "w": 260,
+      "type": "note",
+      "text": "",
+      "parent": "mtj64ed3nzqn0u",
+      "order": 0
     }
   ],
   "edges": []

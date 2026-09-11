@@ -111,32 +111,12 @@
       "title": "Curiosidades"
     },
     {
-      "id": "mtj5u53r8pl3e6",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[carmillia_curiosidades]]",
-      "parent": "mtj5u53rjykcsq",
-      "order": 0
-    },
-    {
       "id": "mtj60w8t0gz92q",
       "x": -5099.214231124579,
       "y": -716.7339196830993,
       "w": 300,
       "type": "column",
       "title": "Inspirações"
-    },
-    {
-      "id": "mtj60w8to7jbjl",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[carmillia_inspiracoes]]",
-      "parent": "mtj60w8t0gz92q",
-      "order": 0
     },
     {
       "id": "mtj64ed3nzqn0u",
@@ -147,12 +127,32 @@
       "title": "Backstory"
     },
     {
-      "id": "mtj64ed3kdyo82",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
+      "id": "mtxkfg8ehw6z1i",
+      "x": -5448,
+      "y": -720,
       "w": 260,
       "type": "note",
-      "text": "![[carmillia_backstory]]",
+      "text": "- Shanoa e Carmillia são praticamente opostas \n- Os gatos não gostam dela, mas os cachorros a amam\n- Por mais que ela tenha muita educação, perto da Shanoa ela perde essa educação\n- Mesmo que ela seja muito arrogante, essa arrogância é \"justificada\" devido a todas as suas habilidades e conhecimentos\n- Ela se considera uma pessoa de sangue **azul**\n- Vem de uma linhagem de aristocratas europeus\n- Principais países que já viveu: Espanha, França e Itália",
+      "parent": "mtj5u53rjykcsq",
+      "order": 0
+    },
+    {
+      "id": "mtxkfyhibcrp4i",
+      "x": -5088,
+      "y": -624,
+      "w": 260,
+      "type": "note",
+      "text": "",
+      "parent": "mtj60w8t0gz92q",
+      "order": 0
+    },
+    {
+      "id": "mtxkn4ky89aijd",
+      "x": -5112,
+      "y": -648,
+      "w": 260,
+      "type": "note",
+      "text": "Nasceu em uma das famílias mais poderosas e antigas do ramo da magia, mesmo que ela seja a irmã do meio da geração atual, isso não a impossibilitou que se tornasse a mais habilidosa entre o seus irmão, tornando-se na visão dos familiares uma prodígio de alta classe.\n\nDevido a forma de vida da família ela constantemente está expandindo o seu conhecimento, chegando ao ponto que ela já tenha vivido em três países diferentes, com o único proposito de estudar. ",
       "parent": "mtj64ed3nzqn0u",
       "order": 0
     }

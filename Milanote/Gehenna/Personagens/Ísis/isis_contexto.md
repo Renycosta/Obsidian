@@ -1,4 +1,4 @@
-| Local importante: | Orfanato          |
+| Local importante: | ----------------- |
 | ----------------- | ----------------- |
 | Habilidades:      | ----------------- |
 | Passatempo:       | Ver filmes, Ler   |

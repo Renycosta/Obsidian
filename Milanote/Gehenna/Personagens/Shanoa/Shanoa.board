@@ -111,32 +111,12 @@
       "title": "Curiosidades"
     },
     {
-      "id": "mtj5u53r8pl3e6",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[shanoa_curiosidades]]",
-      "parent": "mtj5u53rjykcsq",
-      "order": 0
-    },
-    {
       "id": "mtj60w8t0gz92q",
       "x": -5099.214231124579,
       "y": -716.7339196830993,
       "w": 300,
       "type": "column",
       "title": "Inspirações"
-    },
-    {
-      "id": "mtj60w8to7jbjl",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
-      "w": 260,
-      "type": "note",
-      "text": "![[shanoa_inspiracoes]]",
-      "parent": "mtj60w8t0gz92q",
-      "order": 0
     },
     {
       "id": "mtj64ed3nzqn0u",
@@ -147,14 +127,36 @@
       "title": "Backstory"
     },
     {
-      "id": "mtj64ed3kdyo82",
-      "x": -5727.614063671618,
-      "y": -669.532670587684,
+      "id": "mtxktc5sk8kamb",
+      "x": -5424,
+      "y": -720,
       "w": 260,
       "type": "note",
-      "text": "![[shanoa_backstory]]",
-      "parent": "mtj64ed3nzqn0u",
+      "text": "- \"Shanoa\" não é seu nome verdadeiro, mas para ir contra a ideologia da sociedade da magia ela aderiu esse nome\n- Dorme muito pouco\n- Os cachoros não gostam dela, mas os gatos a amam\n",
+      "parent": "mtj5u53rjykcsq",
       "order": 0
+    },
+    {
+      "id": "mtxku0ig1f87gn",
+      "x": -5064,
+      "y": -672,
+      "w": 260,
+      "type": "note",
+      "text": "- Constantine(Hellblazer)\n- Shanoa(Castlevania)\n",
+      "parent": "mtj60w8t0gz92q",
+      "order": 0
+    },
+    {
+      "id": "mtxkudzic004f2",
+      "x": -5112,
+      "y": -720,
+      "w": 260,
+      "type": "note",
+      "text": "Viveu toda a sua vida em um orfanato catôlico, mas isso não a impediu que se tornasse uma anarquista e adquirisse um forte conhecimento sobre magia e se virasse uma maga conhecida, entretanto devido a não possuir uma linhagem de sangue nobre e ser de classe social baixa ela não é respeitada entre a maioria dos magos.\n\nEm uma de suas aventuras após enfrentar a até não conhecida nesse momento a demônio siren, ela acaba sendo colocada em um hospital psiquiátrico durante anos, mas após um certo periodo de tempo ela é inserida de volta a sociedade, mas sem dinheiro e sem outra opção ela terá que voltar a se tornar a maga que um dia já foi.",
+      "parent": "mtj64ed3nzqn0u",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note"
     }
   ],
   "edges": []

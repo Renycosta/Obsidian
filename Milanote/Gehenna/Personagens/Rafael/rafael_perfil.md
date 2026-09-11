@@ -4,7 +4,7 @@
 | Idade:     | 42 anos                  |
 | Gênero:    | Masculino                |
 | Ori. Sex.: | Hetero                   |
-| Trabalho:  | Biólogo                  |
+| Trabalho:  | entomologista            |
 | Animal:    | Centopeia                |
 | Papel:     | Secundário               |
 

@@ -1,4 +1,0 @@
-- Rafael tem um enorme fascínio, por insetos chegando ao ponto que toda a sua magia tem alguma relação com insetos
-- A casa de Rafael é muito limpa e organizada
-- Possui alguns insetos de estimação (aranhas, centopeias, lagartas, besouros)
-- A sua principal magia é uma centopeia que quando colocada dentro da boca de uma pessoa ela se torna incapaz de mentir

@@ -1,3 +1,0 @@
-Nasceu em uma das famílias mais poderosas e antigas do ramo da magia, mesmo que ela seja a irmã do meio da geração atual, isso não a impossibilitou que se tornasse a mais habilidosa entre o seus irmão, tornando-se na visão dos familiares uma prodígio de alta classe.
-
-Devido a forma de vida da família ela constantemente está expandindo o seu conhecimento, chegando ao ponto que ela já tenha vivido em três países diferentes, com o único proposito de estudar. 
