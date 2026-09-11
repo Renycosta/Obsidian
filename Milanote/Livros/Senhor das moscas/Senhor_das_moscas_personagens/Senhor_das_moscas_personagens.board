@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtxcumndnxypo5",
+      "x": -8952,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Ralph"
+    },
+    {
+      "id": "mtxczmx25p99o0",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Ralph]]",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mtxcumndnxypo5"
+    },
+    {
+      "id": "mtxd606scblczh",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- A ",
+      "parent": "mtxcumndnxypo5",
+      "order": 1
+    },
+    {
+      "id": "mtxjxik05fkdm6",
+      "x": -8592,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Porquinho"
+    },
+    {
+      "id": "mtxjxik0gdk9bx",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Ralph]]",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mtxjxik05fkdm6"
+    },
+    {
+      "id": "mtxjxik0270emq",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Tem asma",
+      "parent": "mtxjxik05fkdm6",
+      "order": 1
+    }
+  ],
+  "edges": []
+}

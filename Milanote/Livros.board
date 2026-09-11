@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtxkab5lhh9n2t",
+      "x": 528,
+      "y": 240,
+      "w": 120,
+      "type": "board",
+      "path": "Milanote/Livros/Senhor das moscas/Senhor das moscas.board",
+      "title": "Senhor das moscas",
+      "h": 48,
+      "color": "blue"
+    }
+  ],
+  "edges": []
+}

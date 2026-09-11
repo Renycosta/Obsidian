@@ -3,13 +3,23 @@
   "items": [
     {
       "id": "mtiyav08vd805e",
-      "x": 675.6,
-      "y": 358.11562499999997,
+      "x": 480,
+      "y": 360,
       "w": 120,
       "type": "board",
       "path": "Gehenna.board",
       "title": "Gehenna",
       "h": 95.38437500000003
+    },
+    {
+      "id": "mtxasjnv0jeojt",
+      "x": 672,
+      "y": 360,
+      "w": 120,
+      "type": "board",
+      "path": "Livros.board",
+      "title": "Livros",
+      "h": 72
     }
   ],
   "edges": []

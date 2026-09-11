@@ -1,0 +1,115 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtxawlkiptxubh",
+      "x": -7248,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Sinopse",
+      "h": 96
+    },
+    {
+      "id": "mtxay1xgi5wwcn",
+      "x": -6696,
+      "y": -1056,
+      "w": 260,
+      "type": "note",
+      "text": "Durante a Segunda Guerra Mundial, um avião cai numa ilha deserta e os únicos sobreviventes são um grupo de meninos em idade escolar. Eles descobrem os encantos desse refúgio tropical e liderados por Ralph, eles procuram se organizar enquanto esperam um possível resgate. Mas aos poucos - e pelos próprios desígnios - esses garotos aparentemente inocentes transformam a ilha numa visceral disputa pelo poder, e sua selvageria rasga a fina superfície da civilidade que mantinham como lembrança remota da vida em sociedade.",
+      "parent": "mtxawlkiptxubh",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note"
+    },
+    {
+      "id": "mtxb9h0w96e6wu",
+      "x": -7560,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Informações gerais",
+      "h": 96
+    },
+    {
+      "id": "mtxb9h0wrkg3d5",
+      "x": -6696,
+      "y": -1056,
+      "w": 260,
+      "type": "note",
+      "text": "![[Senhor_das_moscas_info]]",
+      "parent": "mtxb9h0w96e6wu",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note"
+    },
+    {
+      "id": "mtxbk6z686hghc",
+      "x": -6984,
+      "y": -1224,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/A1bFiBBPWFS._SY466_.jpg",
+      "parent": "mtxb9h0w96e6wu",
+      "order": 0
+    },
+    {
+      "id": "mtxby2763e5caf",
+      "x": -6936,
+      "y": -1272,
+      "w": 300,
+      "type": "column",
+      "title": "Personagens"
+    },
+    {
+      "id": "mtxbybj763g10h",
+      "x": -6840,
+      "y": -1224,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Senhor_das_moscas_personagens.board",
+      "title": "Senhor_das_moscas_personagens",
+      "parent": "mtxby2763e5caf",
+      "order": 0
+    },
+    {
+      "id": "mtxbzvfvqcjr24",
+      "x": -6936,
+      "y": -936,
+      "w": 300,
+      "type": "column",
+      "title": "Citações"
+    },
+    {
+      "id": "mtxcqegb1i9m1g",
+      "x": -6864,
+      "y": -1056,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_citações/Senhor_das_moscas_citacoes.board",
+      "title": "Senhor_das_moscas_citacoes",
+      "parent": "mtxbzvfvqcjr24",
+      "order": 0
+    },
+    {
+      "id": "mtxk5z51dnojiw",
+      "x": -6936,
+      "y": -1104,
+      "w": 300,
+      "type": "column",
+      "title": "Capítulos"
+    },
+    {
+      "id": "mtxk8v9rm8dn5h",
+      "x": -6912,
+      "y": -912,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_capítulos/Senhor_das_moscas_capítulos.board",
+      "title": "Senhor_das_moscas_capítulos",
+      "parent": "mtxk5z51dnojiw",
+      "order": 0
+    }
+  ],
+  "edges": []
+}
