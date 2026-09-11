@@ -25,10 +25,10 @@
             "state": {
               "type": "maguilanote-board",
               "state": {
-                "file": "Milanote/Gehenna/Personagens/Shanoa/Shanoa.board"
+                "file": "Milanote/Gehenna/Personagens/Morgana/Morgana.board"
               },
               "icon": "layout-dashboard",
-              "title": "Shanoa"
+              "title": "Morgana"
             }
           }
         ],
@@ -224,10 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fca84abbf942f503",
+  "active": "31a06f974da03312",
   "lastOpenFiles": [
-    "Milanote/Gehenna/Personagens/Shanoa/shanoa_backstory.md",
+    "Milanote/Gehenna/Personagens/Morgana/morgana_personalidade.md",
+    "Milanote/Gehenna/Personagens/Morgana/Morgana.board",
     "Milanote/Gehenna/Personagens/Shanoa/Shanoa.board",
+    "Milanote/Gehenna/Personagens/Shanoa/shanoa_backstory.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_curiosidades.md",
     "Milanote/Gehenna/Personagens/Rafael/Rafael.board",
@@ -235,7 +237,6 @@
     "Milanote/Gehenna/Personagens/Rafael/rafael_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Rafael/rafael_curiosidades.md",
     "Milanote/Gehenna/Personagens/Rafael/rafael_perfil.md",
-    "Milanote/Gehenna/Personagens/Morgana/Morgana.board",
     "Milanote/Gehenna/Personagens/Morgana/morgana_backstory.md",
     "Milanote/Gehenna/Personagens/Morgana/morgana_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Morgana/morgana_curiosidades.md",
@@ -257,12 +258,10 @@
     "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Porquinho.md",
     "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Ralph.md",
     "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_info.md",
-    "Milanote/Gehenna/Personagens/Morgana/morgana_personalidade.md",
     "Maguilanote Assets/A1bFiBBPWFS._SY466_.jpg",
     "Milanote/Gehenna/Personagens/Morgana/morgana_relacoes.md",
     "Milanote/Gehenna/Personagens/Morgana/morgana_perfil.md",
     "Milanote/Gehenna/Personagens/Morgana/morgana_aparencia.md",
-    "Milanote/Gehenna/Personagens/Ísis/isis_aparencia.md",
     "Maguilanote Assets/Clancy.webp",
     "Maguilanote Assets/Morgana-2.jpeg",
     "Maguilanote Assets/Morgana-1.jpeg",

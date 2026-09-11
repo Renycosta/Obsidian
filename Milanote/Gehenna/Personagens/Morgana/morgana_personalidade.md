@@ -2,7 +2,7 @@
 | -------------- | ------------------------------- |
 | Virtudes:      | Otimista, inteligente, empatica |
 | Defeitos:      | Ingênua                         |
-| Medos:         | Demônios                        |
+| Medos:         | Demônios, maquiagem             |
 | Motivação:     | Ser respeitada                  |
 | Curto prazo:   | Tornar shanoa sua mentora       |
 | Longo prazo:   | Ser uma maga                    |
