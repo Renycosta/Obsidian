@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9aff864f81e67d1",
-            "type": "leaf",
-            "state": {
-              "type": "maguilanote-board",
-              "state": {
-                "file": "Milanote/Gehenna/Personagens/Shanoa.board"
-              },
-              "icon": "layout-dashboard",
-              "title": "Shanoa"
-            }
-          },
-          {
             "id": "31a06f974da03312",
             "type": "leaf",
             "state": {
               "type": "maguilanote-board",
               "state": {
-                "file": "Milanote/Gehenna/Personagens/Morgana/Morgana.board"
+                "file": "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Senhor_das_moscas_personagens.board"
               },
               "icon": "layout-dashboard",
-              "title": "Morgana"
+              "title": "Senhor_das_moscas_personagens"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,9 +213,20 @@
   },
   "active": "31a06f974da03312",
   "lastOpenFiles": [
-    "Milanote/Gehenna/Personagens/Morgana/morgana_personalidade.md",
-    "Milanote/Gehenna/Personagens/Morgana/Morgana.board",
+    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Johnny.md",
+    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_capítulos/Senhor_das_moscas_capítulos.board",
+    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Senhor_das_moscas_personagens.board",
+    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Ralph.md",
+    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Jack.md",
+    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Porquinho.md",
+    "Milanote/Livros/Senhor das moscas/Senhor das moscas.board",
+    "Milanote/Livros.board",
+    "Milanote.board",
     "Milanote/Gehenna/Personagens/Shanoa/Shanoa.board",
+    "Milanote/Gehenna/Personagens.board",
+    "Milanote/Gehenna.board",
+    "Milanote/Gehenna/Personagens/Morgana/Morgana.board",
+    "Milanote/Gehenna/Personagens/Morgana/morgana_personalidade.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_backstory.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Shanoa/shanoa_curiosidades.md",
@@ -240,10 +238,7 @@
     "Milanote/Gehenna/Personagens/Morgana/morgana_backstory.md",
     "Milanote/Gehenna/Personagens/Morgana/morgana_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Morgana/morgana_curiosidades.md",
-    "Milanote/Gehenna/Personagens/Ísis/Ísis.board",
-    "Milanote/Gehenna/Personagens/Carmillia/Carmillia.board",
     "Milanote/Gehenna/Personagens/Carmillia/carmillia_backstory.md",
-    "Milanote/Gehenna/Personagens/Hanna/Hanna.board",
     "Milanote/Gehenna/Personagens/Ísis/isis_backstory.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Ísis/isis_curiosidades.md",
@@ -251,17 +246,9 @@
     "Milanote/Gehenna/Personagens/Hanna/hanna_inspiracoes.md",
     "Milanote/Gehenna/Personagens/Hanna/hanna_curiosidades.md",
     "Milanote/Gehenna/Personagens/Carmillia/carmillia_curiosidades.md",
-    "Milanote/Livros.board",
-    "Milanote/Gehenna.board",
-    "Milanote/Gehenna/Personagens.board",
-    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Senhor_das_moscas_personagens.board",
-    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Porquinho.md",
-    "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_personagens/Ralph.md",
     "Milanote/Livros/Senhor das moscas/Senhor_das_moscas_info.md",
     "Maguilanote Assets/A1bFiBBPWFS._SY466_.jpg",
     "Milanote/Gehenna/Personagens/Morgana/morgana_relacoes.md",
-    "Milanote/Gehenna/Personagens/Morgana/morgana_perfil.md",
-    "Milanote/Gehenna/Personagens/Morgana/morgana_aparencia.md",
     "Maguilanote Assets/Clancy.webp",
     "Maguilanote Assets/Morgana-2.jpeg",
     "Maguilanote Assets/Morgana-1.jpeg",

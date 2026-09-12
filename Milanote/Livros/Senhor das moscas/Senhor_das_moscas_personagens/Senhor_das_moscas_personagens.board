@@ -3,7 +3,7 @@
   "items": [
     {
       "id": "mtxcumndnxypo5",
-      "x": -8952,
+      "x": -9384,
       "y": -1656,
       "w": 300,
       "type": "column",
@@ -27,13 +27,13 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- A ",
+      "text": "- Personalidade: Infantil, Alegre, Brincalhão\n- A ",
       "parent": "mtxcumndnxypo5",
       "order": 1
     },
     {
       "id": "mtxjxik05fkdm6",
-      "x": -8592,
+      "x": -9048,
       "y": -1656,
       "w": 300,
       "type": "column",
@@ -45,7 +45,7 @@
       "y": -1248,
       "w": 260,
       "type": "note",
-      "text": "![[Ralph]]",
+      "text": "![[Porquinho]]",
       "order": 0,
       "showTitle": false,
       "title": "Note",
@@ -57,8 +57,38 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Tem asma",
+      "text": "- Personalidade: Infantil, tímido, ansioso\n- Tem asma\n- Vive com a tia",
       "parent": "mtxjxik05fkdm6",
+      "order": 1
+    },
+    {
+      "id": "mtxql1w9yzxp5t",
+      "x": -8712,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Jack Merridew"
+    },
+    {
+      "id": "mtxql1w9jzx194",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Jack]]",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mtxql1w9yzxp5t"
+    },
+    {
+      "id": "mtxql1w9xt47ot",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Infantil, raivoso, arrogante\n- Rosto compacto e sardento\n- Líder de um grupo de crianças chamadas de coro/caçadores",
+      "parent": "mtxql1w9yzxp5t",
       "order": 1
     }
   ],

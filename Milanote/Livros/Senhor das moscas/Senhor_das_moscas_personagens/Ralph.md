@@ -7,10 +7,10 @@
 | Papel:       | Protagonista              |
 ### Aparência
 
-| Físico:         | Forte |
-| --------------- | ----- |
-| Cabelo:         | Loiro |
-| Olhos:          | ----  |
-| Caracteristica: | ----  |
+| Físico:         | Forte            |
+| --------------- | ---------------- |
+| Cabelo:         | Loiro            |
+| Olhos:          | ----             |
+| Caracteristica: | aparência gentil |
 
 

@@ -19,7 +19,8 @@
       "type": "board",
       "path": "Livros.board",
       "title": "Livros",
-      "h": 72
+      "h": 72,
+      "color": "gray"
     }
   ],
   "edges": []
