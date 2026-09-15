@@ -7,10 +7,10 @@
 | Papel:    | deuteragonista |
 ### Aparência
 
-| Físico:         | Gordo  |
-| --------------- | ------ |
-| Cabelo:         | ----   |
-| Olhos:          | ----   |
-| Caracteristica: | Óculos |
+| Físico:         | Gordo         |
+| --------------- | ------------- |
+| Cabelo:         | Nunca crescia |
+| Olhos:          | ----          |
+| Caracteristica: | Óculos        |
 
 

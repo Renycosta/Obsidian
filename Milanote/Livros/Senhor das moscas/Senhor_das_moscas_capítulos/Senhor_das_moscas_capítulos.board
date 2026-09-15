@@ -54,6 +54,24 @@
       "text": "Ocorre uma passagem de tempo de alguns dias. É mostrado Jack tentando caçar, mas fracassando e, em seguida, retornando para o \"abrigo\", onde Ralph e Simon tentam construir uma cabana. Ralph conversa com Jack e demonstra seu descontentamento com os meninos, dizendo que eles apenas estão brincando e tentando caçar, sem ajudar em nada. Com essa conversa, fica clara a compulsão de Jack em perseguir e matar, e o antagonismo que está sendo criando entre os dois. Junto disso, os meninos dizem que não se sentem confortáveis na ilha, como se estivessem sendo observados. Depois dessa discussão, eles vão para a praia descansar um pouco.\n\nEm seguida, é mostrada uma breve aventura de Simon ao redor da ilha, na qual ele se afasta dos outros e explora diferentes partes do local. Esse momento apresenta uma perspectiva mais individual de Simon.",
       "parent": "mu30k042krpiwf",
       "order": 0
+    },
+    {
+      "id": "mu33z0lbj8bcm5",
+      "x": -7680,
+      "y": -1440,
+      "w": 300,
+      "type": "column",
+      "title": "Capítulo 4: Caras pintadas e cabelos compridos"
+    },
+    {
+      "id": "mu33z0lbajsrm0",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "É apresentada a rotina dos meninos, mostrando como eles fazem para viver na ilha. Um grupo chamado de \"pequenos\", formado por crianças de 6 anos, ganha maior destaque, apresentando suas tarefas simples e as formas como se divertem. Entretanto, Jack conversa com um dos meninos, Roger, mostrando que conseguiu argila para fazer camuflagem e pintura facial.\n\nPosteriormente, o foco volta para Ralph, que conversa com Porquinho e volta a aproveitar a piscina. Entretanto, esse momento é interrompido quando Ralph avista a fumaça de um navio e percebe que a lareira não estava acesa. Restando apenas gritar para tentar chamar a atenção do navio, mas sem sucesso. Após alguns minutos, o coro retorna, dessa vez muito mais animalesco, e junto deles é visível a cabeça de um porco decapitado. A felicidade de Jack logo é interrompida por Ralph, que o questiona sobre o motivo de a lareira estar apagada. Isso acaba gerando uma discussão que resulta em Jack quebrando os óculos de Porquinho. Entretanto, tudo termina com o coro acendendo a fogueira e cozinhando o porco. A falta de ética dos meninos e a rivalidade entre Ralph e Jack continuam aumentando, tendo como desfecho Ralph convocando uma reunião.\n",
+      "parent": "mu33z0lbj8bcm5",
+      "order": 0
     }
   ],
   "edges": []
