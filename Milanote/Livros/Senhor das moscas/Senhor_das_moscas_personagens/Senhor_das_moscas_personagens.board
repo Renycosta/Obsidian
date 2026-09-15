@@ -27,7 +27,7 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Infantil, Alegre, Brincalhão\n- A ",
+      "text": "- Personalidade: Infantil, Alegre, Brincalhão\n- Faz bananeira quando fica muito feliz\n- Se tornou o líder dos meninos\n- É o mais responsável ",
       "parent": "mtxcumndnxypo5",
       "order": 1
     },
@@ -87,8 +87,38 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Infantil, raivoso, arrogante\n- Rosto compacto e sardento\n- Líder de um grupo de crianças chamadas de coro/caçadores",
+      "text": "- Personalidade: Infantil, raivoso, arrogante\n- Rosto compacto e sardento\n- Líder de um grupo de crianças chamadas de coro/caçadores\n- Jack tem uma estranha compulsão em perseguir e matar.",
       "parent": "mtxql1w9yzxp5t",
+      "order": 1
+    },
+    {
+      "id": "mu31giwvofigo1",
+      "x": -8376,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Simon"
+    },
+    {
+      "id": "mu31giwv899e0p",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Simon]]",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mu31giwvofigo1"
+    },
+    {
+      "id": "mu31giwvtk1jag",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Fazia parte do coro antes mesmo de chegar a ilha\n- Tinha o costume de desmaiar quando estava com o coro/caçadores\n- Está sempre ajudando os seus amigos\n- Ralph: \"Ele é estranho. É diferente\"",
+      "parent": "mu31giwvofigo1",
       "order": 1
     }
   ],

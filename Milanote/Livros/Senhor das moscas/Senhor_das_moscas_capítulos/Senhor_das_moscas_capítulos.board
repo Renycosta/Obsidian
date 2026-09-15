@@ -36,6 +36,24 @@
       "text": "Todos os meninos se reúnem próximo a Ralph, que inicia a reunião informando a todos sobre as descobertas que fizeram na ilha. Junto disso, um menino informa que viu uma criatura, apelidada de bicharoco/coisa-cobra, descrita como uma cobra gigante. Após essa discussão, Ralph os incentiva a criar uma enorme fogueira para que, caso haja um navio próximo, seja mais fácil chamar sua atenção. Como resultado, os meninos se separam para ir em busca de lenha para a fogueira. Após o fim da reunião, fica visível o desdém de Porquinho pelas crianças.\n\nApós certo período de tempo, os meninos conseguem construir uma enorme fogueira e utilizam os óculos de Porquinho para acendê-la. Isso acaba gerando uma discussão, fazendo com que eles não percebam, inicialmente, que o fogo da fogueira havia se espalhado pelas árvores, dando início a um incêndio por toda a ilha. Como resultado, a discussão fica cada vez mais acalorada.\n",
       "parent": "mtyk0kl66ozflv",
       "order": 0
+    },
+    {
+      "id": "mu30k042krpiwf",
+      "x": -8016,
+      "y": -1440,
+      "w": 300,
+      "type": "column",
+      "title": "Capítulo 3: Cabanas na praia"
+    },
+    {
+      "id": "mu30k04223zamp",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "Ocorre uma passagem de tempo de alguns dias. É mostrado Jack tentando caçar, mas fracassando e, em seguida, retornando para o \"abrigo\", onde Ralph e Simon tentam construir uma cabana. Ralph conversa com Jack e demonstra seu descontentamento com os meninos, dizendo que eles apenas estão brincando e tentando caçar, sem ajudar em nada. Com essa conversa, fica clara a compulsão de Jack em perseguir e matar, e o antagonismo que está sendo criando entre os dois. Junto disso, os meninos dizem que não se sentem confortáveis na ilha, como se estivessem sendo observados. Depois dessa discussão, eles vão para a praia descansar um pouco.\n\nEm seguida, é mostrada uma breve aventura de Simon ao redor da ilha, na qual ele se afasta dos outros e explora diferentes partes do local. Esse momento apresenta uma perspectiva mais individual de Simon.",
+      "parent": "mu30k042krpiwf",
+      "order": 0
     }
   ],
   "edges": []
