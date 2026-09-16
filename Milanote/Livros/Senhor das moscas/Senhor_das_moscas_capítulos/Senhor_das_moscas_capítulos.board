@@ -72,6 +72,24 @@
       "text": "É apresentada a rotina dos meninos, mostrando como eles fazem para viver na ilha. Um grupo chamado de \"pequenos\", formado por crianças de 6 anos, ganha maior destaque, apresentando suas tarefas simples e as formas como se divertem. Entretanto, Jack conversa com um dos meninos, Roger, mostrando que conseguiu argila para fazer camuflagem e pintura facial.\n\nPosteriormente, o foco volta para Ralph, que conversa com Porquinho e volta a aproveitar a piscina. Entretanto, esse momento é interrompido quando Ralph avista a fumaça de um navio e percebe que a lareira não estava acesa. Restando apenas gritar para tentar chamar a atenção do navio, mas sem sucesso. Após alguns minutos, o coro retorna, dessa vez muito mais animalesco, e junto deles é visível a cabeça de um porco decapitado. A felicidade de Jack logo é interrompida por Ralph, que o questiona sobre o motivo de a lareira estar apagada. Isso acaba gerando uma discussão que resulta em Jack quebrando os óculos de Porquinho. Entretanto, tudo termina com o coro acendendo a fogueira e cozinhando o porco. A falta de ética dos meninos e a rivalidade entre Ralph e Jack continuam aumentando, tendo como desfecho Ralph convocando uma reunião.\n",
       "parent": "mu33z0lbj8bcm5",
       "order": 0
+    },
+    {
+      "id": "mu38sl4h1hiil7",
+      "x": -7344,
+      "y": -1440,
+      "w": 300,
+      "type": "column",
+      "title": "Capítulo 5: O mostro da água"
+    },
+    {
+      "id": "mu38sl4hu436bu",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "Ralph caminha por um tempo para conseguir organizar seus pensamentos. Em seguida, dá início à reunião, expondo, de forma civilizada, todos os problemas causados pelos meninos e, ao mesmo tempo, explicando como eles devem agir. Após realizar esse desabafo, conclui que a razão pela qual os meninos estão tendo essas atitudes é o medo. Jack, de forma agressiva, afirma que eles não deveriam ter medo e que não existem monstros.\n\nA partir disso, a reunião passa a ser totalmente focada em desmentir a existência de monstros. Nesse momento, o conflito entre Ralph e Jack fica mais forte, Ralph tenta manter as regras, enquanto Jack não tem interesse em segui-las e passa a agir de maneira mais agressiva. Essa diferença também se transforma em uma disputa pela liderança: Ralph procura manter sua autoridade por meio das regras e organização, enquanto Jack começa a exercer maior influência sobre os meninos ao incentivá-los a desobedecer às regras. Conforme a reunião perde o controle, a autoridade de Ralph é enfraquece e a influência de Jack aumenta.\n\nRalph, Porquinho e Simon então discutem sobre como um adulto agiria, o que ele faria e a importância de Ralph como líder. Porém, toda essa conversa chega ao fim quando eles ouvem o grito de um menino.\n",
+      "parent": "mu38sl4h1hiil7",
+      "order": 0
     }
   ],
   "edges": []
