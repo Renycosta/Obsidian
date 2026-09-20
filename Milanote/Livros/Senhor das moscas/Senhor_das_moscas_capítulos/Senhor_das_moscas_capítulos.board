@@ -90,6 +90,24 @@
       "text": "Ralph caminha por um tempo para conseguir organizar seus pensamentos. Em seguida, dá início à reunião, expondo, de forma civilizada, todos os problemas causados pelos meninos e, ao mesmo tempo, explicando como eles devem agir. Após realizar esse desabafo, conclui que a razão pela qual os meninos estão tendo essas atitudes é o medo. Jack, de forma agressiva, afirma que eles não deveriam ter medo e que não existem monstros.\n\nA partir disso, a reunião passa a ser totalmente focada em desmentir a existência de monstros. Nesse momento, o conflito entre Ralph e Jack fica mais forte, Ralph tenta manter as regras, enquanto Jack não tem interesse em segui-las e passa a agir de maneira mais agressiva. Essa diferença também se transforma em uma disputa pela liderança: Ralph procura manter sua autoridade por meio das regras e organização, enquanto Jack começa a exercer maior influência sobre os meninos ao incentivá-los a desobedecer às regras. Conforme a reunião perde o controle, a autoridade de Ralph é enfraquece e a influência de Jack aumenta.\n\nRalph, Porquinho e Simon então discutem sobre como um adulto agiria, o que ele faria e a importância de Ralph como líder. Porém, toda essa conversa chega ao fim quando eles ouvem o grito de um menino.\n",
       "parent": "mu38sl4h1hiil7",
       "order": 0
+    },
+    {
+      "id": "mu3kfd83g61p2f",
+      "x": -7008,
+      "y": -1440,
+      "w": 300,
+      "type": "column",
+      "title": "Capítulo 6: O mostro do ar"
+    },
+    {
+      "id": "mu3kfd83891zbc",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "Ao ouvirem o grito, Ralph, Porquinho e Simon vão ajudar o menino, levando-o para o dormitório, encerrando assim o dia. Durante a noite, enquanto todos os meninos estão dormindo, um soldado que estava em um avião cai de paraquedas na ilha, já falecido. Como o paraquedas fica preso, seu corpo permanece estendido entre as pedras, no alto da montanha. Ao amanhecer, os gêmeos vão até a fogueira para se esquentar e acabam se assustando com o soldado, confundindo-o com um monstro.\n\nRalph é acordado pelos gêmeos, que o informam sobre o que encontraram. Diante disso, Ralph realiza uma reunião para informar a todos sobre o ocorrido. É decidido que Porquinho ficará cuidando das crianças, enquanto os outros irão investigar o suposto monstro. Eles vão até o local onde acreditam que o monstro possa estar.\n\nAo chegarem ao local, Ralph vai na frente e pede para que os outros esperem, mas Jack decide acompanhá-lo para não deixá-lo sozinho. Porém, eles não encontram o monstro nem nada de interessante. A maioria das crianças então demonstra interesse em descansar ou aproveitar o local, o que deixa Ralph irritado. Diante disso, ele reafirma sua posição como líder, deixando a maioria dos meninos incomodados.\n",
+      "parent": "mu3kfd83g61p2f",
+      "order": 0
     }
   ],
   "edges": []
