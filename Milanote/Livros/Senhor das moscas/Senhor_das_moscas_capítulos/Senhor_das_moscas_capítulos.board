@@ -174,7 +174,7 @@
     },
     {
       "id": "mubpa2iht1dbu5",
-      "x": -8640,
+      "x": -8664,
       "y": 96,
       "w": 432,
       "type": "column",
@@ -187,8 +187,27 @@
       "y": -1128,
       "w": 260,
       "type": "note",
-      "text": "",
+      "text": "No dia seguinte, Ralph, já bastante machucado, tem uma conversa melancólica com Porquinho. Os dois discutem sobre a dança da noite anterior, e Ralph reconhece que Simon foi morto e que ambos participaram daquele momento. Ao mesmo tempo, comenta sobre a quantidade cada vez menor de meninos que ainda permanecem com eles.\n\nEnquanto isso, do outro lado da ilha, são apresentados os selvagens, grupo liderado por Jack, que passou a adotar uma postura muito mais agressiva e hostil. Ao mesmo tempo, fica evidente que eles não sabem que foram responsáveis pela morte de Simon e continuam acreditando que haviam enfrentado o monstro.\n\nA narrativa retorna para Ralph, que, junto de Porquinho e dos gêmeos, está exausto por passar o dia inteiro mantendo a fogueira acesa, principalmente devido à redução do número de meninos disponíveis para ajudar. Diante disso, decidem que não irão mais acender a fogueira durante a noite.\n\nAo anoitecer, enquanto Ralph, Porquinho e os gêmeos estão nas cabanas, os selvagens os atacam. Apesar de conseguirem contra-atacar e resistir ao grupo de Jack, os meninos não conseguem impedir que ele roube os óculos de Porquinho.\n",
       "parent": "mubpa2iht1dbu5",
+      "order": 0
+    },
+    {
+      "id": "mubu9jddurysk6",
+      "x": -8184,
+      "y": 96,
+      "w": 432,
+      "type": "column",
+      "title": "Capítulo 11: A pedra do castelo ",
+      "h": 528
+    },
+    {
+      "id": "mubu9jdds1gd8o",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "",
+      "parent": "mubu9jddurysk6",
       "order": 0
     }
   ],
