@@ -152,6 +152,44 @@
       "text": "Porquinho tem uma breve conversa com Ralph e Jack sobre o monstro. Em seguida, Jack utiliza a concha para convocar uma reunião com o objetivo de retirar Ralph da liderança, mas não consegue. Como resultado, Jack decide, por vontade própria, se afastar dos outros meninos e se isolar na floresta. Porquinho incentiva a criação de uma nova fogueira, trazendo novamente um ar mais alegre para os meninos. Após construírem a fogueira, Ralph e Porquinho conversam sobre como deve estar a situação dos outros meninos.\n\nEnquanto isso, Jack se reúne com um grupo de meninos e os incentiva a caçar. Eles conseguem caçar uma porca e, após a caçada, decidem cortar sua cabeça e deixá-la fincada sobre uma estaca como uma oferenda para a criatura. Em seguida, vão até os outros meninos para roubar o fogo e assar a carne.\n\nSimon observa a oferenda à distância, sem ter participado da caçada. Ele vê os dentes brancos, os olhos opacos, o sangue escorrendo pela estaca e as moscas cercando a cabeça. A oferenda, apelidada de \"Senhor das Moscas\", então recomenda que Simon volte a se encontrar com os outros meninos.\n\nRalph e Porquinho têm um breve momento de desabafo, mas logo são interrompidos por Jack e seus caçadores, que intimidam os meninos e roubam o fogo da fogueira. Eles afirmam que, caso queiram, os outros podem ir até eles para comer carne. Diante da atitude de Ralph e da fome dos meninos, a maioria começa a demonstrar interesse em se juntar a Jack.\n\nApós esses acontecimentos, a narrativa volta-se para Simon, que tem uma conversa com o Senhor das Moscas. ",
       "parent": "muahzhc7d8kqsf",
       "order": 0
+    },
+    {
+      "id": "mubnfpifz5v2ks",
+      "x": -7704,
+      "y": -672,
+      "w": 432,
+      "type": "column",
+      "title": "Capítulo 9: Até a morte",
+      "h": 480
+    },
+    {
+      "id": "mubnfpifact1ne",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "Simon acorda no mesmo local, mas sofre uma hemorragia nasal que dificulta seu retorno. Durante o caminho, ele encontra o suposto monstro e percebe que, na verdade, se trata de um cadáver em decomposição. Diante dessa descoberta, decide voltar para contar aos outros a verdade sobre a criatura.\n\nEnquanto isso, Ralph e Porquinho vão até a festa de Jack, onde encontram o grupo reunido, comendo carne de porco. Jack está sentado no centro, como se fosse um rei. Após a refeição, ele questiona novamente se os outros querem que ele seja o líder e, dessa vez, não encontra objeções, consolidando sua liderança.\n\nEm seguida, Jack conduz a dança que o grupo costumava realizar, fazendo com que todos assumam um comportamento cada vez mais agressivo. Simon chega ao local nesse momento, mas, devido à escuridão e à sua condição, é confundido com o monstro. Tomados pelo medo e pela violência do grupo, eles o atacam e acabam matando Simon, impedindo que ele revele a verdade sobre a criatura.\n",
+      "parent": "mubnfpifz5v2ks",
+      "order": 0
+    },
+    {
+      "id": "mubpa2iht1dbu5",
+      "x": -8640,
+      "y": 96,
+      "w": 432,
+      "type": "column",
+      "title": "Capítulo 10: A concha e os óculos ",
+      "h": 528
+    },
+    {
+      "id": "mubpa2ihehlkeq",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "",
+      "parent": "mubpa2iht1dbu5",
+      "order": 0
     }
   ],
   "edges": []
