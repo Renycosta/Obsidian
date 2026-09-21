@@ -3,11 +3,12 @@
   "items": [
     {
       "id": "mtxpxe5x2f66fp",
-      "x": -8688,
-      "y": -1440,
-      "w": 300,
+      "x": -8664,
+      "y": -1752,
+      "w": 432,
       "type": "column",
-      "title": "Capítulo 1: O som da Concha"
+      "title": "Capítulo 1: O som da Concha",
+      "h": 384
     },
     {
       "id": "mtxpy11zr0jf8u",
@@ -21,11 +22,12 @@
     },
     {
       "id": "mtyk0kl66ozflv",
-      "x": -8352,
-      "y": -1440,
-      "w": 300,
+      "x": -8184,
+      "y": -1752,
+      "w": 432,
       "type": "column",
-      "title": "Capítulo 2: Fogo na montanha"
+      "title": "Capítulo 2: Fogo na montanha",
+      "h": 408
     },
     {
       "id": "mtyk0kl6nedy9i",
@@ -39,16 +41,17 @@
     },
     {
       "id": "mu30k042krpiwf",
-      "x": -8016,
-      "y": -1440,
-      "w": 300,
+      "x": -7704,
+      "y": -1752,
+      "w": 432,
       "type": "column",
-      "title": "Capítulo 3: Cabanas na praia"
+      "title": "Capítulo 3: Cabanas na praia",
+      "h": 408
     },
     {
       "id": "mu30k04223zamp",
-      "x": -7632,
-      "y": -1128,
+      "x": -8160,
+      "y": -1272,
       "w": 260,
       "type": "note",
       "text": "Ocorre uma passagem de tempo de alguns dias. É mostrado Jack tentando caçar, mas fracassando e, em seguida, retornando para o \"abrigo\", onde Ralph e Simon tentam construir uma cabana. Ralph conversa com Jack e demonstra seu descontentamento com os meninos, dizendo que eles apenas estão brincando e tentando caçar, sem ajudar em nada. Com essa conversa, fica clara a compulsão de Jack em perseguir e matar, e o antagonismo que está sendo criando entre os dois. Junto disso, os meninos dizem que não se sentem confortáveis na ilha, como se estivessem sendo observados. Depois dessa discussão, eles vão para a praia descansar um pouco.\n\nEm seguida, é mostrada uma breve aventura de Simon ao redor da ilha, na qual ele se afasta dos outros e explora diferentes partes do local. Esse momento apresenta uma perspectiva mais individual de Simon.",
@@ -57,11 +60,12 @@
     },
     {
       "id": "mu33z0lbj8bcm5",
-      "x": -7680,
-      "y": -1440,
-      "w": 300,
+      "x": -8664,
+      "y": -1296,
+      "w": 432,
       "type": "column",
-      "title": "Capítulo 4: Caras pintadas e cabelos compridos"
+      "title": "Capítulo 4: Caras pintadas e cabelos compridos",
+      "h": 480
     },
     {
       "id": "mu33z0lbajsrm0",
@@ -75,11 +79,12 @@
     },
     {
       "id": "mu38sl4h1hiil7",
-      "x": -7344,
-      "y": -1440,
-      "w": 300,
+      "x": -8184,
+      "y": -1296,
+      "w": 432,
       "type": "column",
-      "title": "Capítulo 5: O mostro da água"
+      "title": "Capítulo 5: O mostro da água",
+      "h": 552
     },
     {
       "id": "mu38sl4hu436bu",
@@ -93,11 +98,12 @@
     },
     {
       "id": "mu3kfd83g61p2f",
-      "x": -7008,
-      "y": -1440,
-      "w": 300,
+      "x": -7704,
+      "y": -1296,
+      "w": 432,
       "type": "column",
-      "title": "Capítulo 6: O mostro do ar"
+      "title": "Capítulo 6: O mostro do ar",
+      "h": 528
     },
     {
       "id": "mu3kfd83891zbc",
@@ -107,6 +113,44 @@
       "type": "note",
       "text": "Ao ouvirem o grito, Ralph, Porquinho e Simon vão ajudar o menino, levando-o para o dormitório, encerrando assim o dia. Durante a noite, enquanto todos os meninos estão dormindo, um soldado que estava em um avião cai de paraquedas na ilha, já falecido. Como o paraquedas fica preso, seu corpo permanece estendido entre as pedras, no alto da montanha. Ao amanhecer, os gêmeos vão até a fogueira para se esquentar e acabam se assustando com o soldado, confundindo-o com um monstro.\n\nRalph é acordado pelos gêmeos, que o informam sobre o que encontraram. Diante disso, Ralph realiza uma reunião para informar a todos sobre o ocorrido. É decidido que Porquinho ficará cuidando das crianças, enquanto os outros irão investigar o suposto monstro. Eles vão até o local onde acreditam que o monstro possa estar.\n\nAo chegarem ao local, Ralph vai na frente e pede para que os outros esperem, mas Jack decide acompanhá-lo para não deixá-lo sozinho. Porém, eles não encontram o monstro nem nada de interessante. A maioria das crianças então demonstra interesse em descansar ou aproveitar o local, o que deixa Ralph irritado. Diante disso, ele reafirma sua posição como líder, deixando a maioria dos meninos incomodados.\n",
       "parent": "mu3kfd83g61p2f",
+      "order": 0
+    },
+    {
+      "id": "mua6cp7s1a4ij7",
+      "x": -8664,
+      "y": -672,
+      "w": 432,
+      "type": "column",
+      "title": "Capítulo 7: Sombras e árvores altas",
+      "h": 528
+    },
+    {
+      "id": "mua6cp7tr5ftre",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "Os meninos seguem até o local onde os gêmeos haviam encontrado o monstro, mas, durante o caminho, encontram algumas frutas e fazem uma breve pausa para descansar. Nesse momento, Jack incentiva Ralph a caçar. Ralph afirma que, caso encontrem um porco durante o caminho, eles poderão caçá-lo. Enquanto retornam pela trilha, Ralph começa a ter algumas lembranças de sua vida antes da ilha.\n\nNo meio do caminho, um porco selvagem aparece e ataca os meninos, permitindo que Ralph consiga machucá-lo, mas o animal acaba fugindo. Apesar disso, a experiência deixa Ralph muito entusiasmado com o que acabou de fazer. Agora ele começa a entender a vontade de caçar da qual Jack tanto fala.\n\nAo retomarem a trilha, Ralph percebe que levarão muito mais tempo do que esperavam para retornar. Por isso, recomenda que alguém vá até Porquinho para informá-lo sobre a situação. Simon se responsabiliza pela tarefa, enquanto os outros pretendem atravessar a plataforma e subir a montanha no dia seguinte. Entretanto, após uma desavença com Jack, Ralph, Jack e Roger acabam subindo a montanha sozinhos.\n\nAo chegarem ao topo da montanha, os três encontram o que acreditam ser o monstro. Ao perceberem que aquilo realmente parece ser uma criatura, ficam assustados e fogem do local, deixando para trás a confirmação de que o medo do monstro continua influenciando o comportamento dos meninos.\n",
+      "parent": "mua6cp7s1a4ij7",
+      "order": 0
+    },
+    {
+      "id": "muahzhc7d8kqsf",
+      "x": -8184,
+      "y": -672,
+      "w": 432,
+      "type": "column",
+      "title": "Capítulo 8: Uma oferenda para as trevas ",
+      "h": 528
+    },
+    {
+      "id": "muahzhc7xa9ovy",
+      "x": -7632,
+      "y": -1128,
+      "w": 260,
+      "type": "note",
+      "text": "",
+      "parent": "muahzhc7d8kqsf",
       "order": 0
     }
   ],
