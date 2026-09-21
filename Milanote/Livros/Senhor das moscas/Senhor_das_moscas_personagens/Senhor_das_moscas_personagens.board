@@ -120,6 +120,24 @@
       "text": "- Fazia parte do coro antes mesmo de chegar a ilha\n- Tinha o costume de desmaiar quando estava com o coro/caçadores\n- Está sempre ajudando os seus amigos\n- Ralph: \"Ele é estranho. É diferente\" (pag.: 69)",
       "parent": "mu31giwvofigo1",
       "order": 1
+    },
+    {
+      "id": "mubhc0ne6mrpla",
+      "x": -8016,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Senhor das moscas"
+    },
+    {
+      "id": "mubhc0nez4e4zs",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- O senhor das moscas é uma \"criatura\" formada por uma estaca de madeira que em sua ponta está a cabeça de uma porca decapitada possui dentes brancos, olhos opacos, sangue escorrendo pela estaca e as moscas cercando a cabeça\n- Criado por Jack como uma oferenda ao monstro\n- Representa o lado selvagem e violento que existe dentro dos próprios meninos, mostrando que a ameaça que eles tanto temem não está necessariamente relacionada a uma criatura externa, mas ao comportamento que eles próprios estão desenvolvendo.\n",
+      "parent": "mubhc0ne6mrpla",
+      "order": 1
     }
   ],
   "edges": []
