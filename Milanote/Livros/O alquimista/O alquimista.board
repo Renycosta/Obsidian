@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtxawlkiptxubh",
+      "x": -7248,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Sinopse",
+      "h": 96
+    },
+    {
+      "id": "mtxay1xgi5wwcn",
+      "x": -7224,
+      "y": -1200,
+      "w": 260,
+      "type": "note",
+      "text": "Santiago, um jovem pastor da Andaluzia, parte rumo ao Egito em busca de um tesouro escondido entre as Pirâmides. O que ele não sabe é que sua jornada o levará a riquezas muito diferentes – e mais satisfatórias – do que ele estava esperando. Ao longo do caminho, uma cigana, um homem que se diz rei e um alquimista lhe indicam a direção em que deve seguir e o ajudam a perceber que o maior tesouro se encontra dentro dele mesmo.",
+      "parent": "mtxawlkiptxubh",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note"
+    },
+    {
+      "id": "mtxb9h0w96e6wu",
+      "x": -7560,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Informações gerais",
+      "h": 96
+    },
+    {
+      "id": "mtxb9h0wrkg3d5",
+      "x": -7512,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[O_alquimista_info]]",
+      "parent": "mtxb9h0w96e6wu",
+      "order": 2,
+      "showTitle": false,
+      "title": "Note"
+    },
+    {
+      "id": "mtxby2763e5caf",
+      "x": -6936,
+      "y": -1272,
+      "w": 300,
+      "type": "column",
+      "title": "Personagens"
+    },
+    {
+      "id": "mtxbzvfvqcjr24",
+      "x": -6936,
+      "y": -936,
+      "w": 300,
+      "type": "column",
+      "title": "Citações"
+    },
+    {
+      "id": "mtxk5z51dnojiw",
+      "x": -6936,
+      "y": -1104,
+      "w": 300,
+      "type": "column",
+      "title": "Capítulos"
+    },
+    {
+      "id": "mueqkqsrj7e0m8",
+      "x": -6600,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Autor (William golding)",
+      "h": 96
+    },
+    {
+      "id": "mueqmfzozd7fre",
+      "x": -6576,
+      "y": -984,
+      "w": 260,
+      "type": "note",
+      "text": "Paulo Coelho nasceu em 1947, no Rio de Janeiro. Antes de se dedicar à literatura, foi diretor de teatro, dramaturgo, jornalista e compositor. Grande fenômeno literário internacional, tem sua obra publicada em mais de 170 países e traduzida para 81 idiomas. Juntos, seus livros já venderam mais de 210 milhões de exemplares. Entre os inúmeros prêmios e condecorações que recebeu ao longo da carreira estão o Crystal Award, do Fórum Econômico Mundial, e o prestigioso título de chevalier de l’ordre national de la Légion d’honneur. Desde 2002 é membro da Academia Brasileira de Letras e, em 2007, tornou-se Mensageiro da Paz das Nações Unidas.",
+      "parent": "mueqkqsrj7e0m8",
+      "order": 2
+    },
+    {
+      "id": "mug3cyhfwsm20t",
+      "x": -6912,
+      "y": -1272,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/O alquimista/O_alquimista_personagens/O_alquimista_personagens.board",
+      "title": "O_alquimista_personagens",
+      "parent": "mtxby2763e5caf",
+      "order": 0
+    },
+    {
+      "id": "mug3d05qbr57jg",
+      "x": -6888,
+      "y": -960,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/O alquimista/O_alquimista_citações/O_alquimista_citacoes.board",
+      "title": "O_alquimista_citacoes",
+      "parent": "mtxbzvfvqcjr24",
+      "order": 0
+    },
+    {
+      "id": "mug3d20fy0ot2d",
+      "x": -6936,
+      "y": -1104,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/O alquimista/O_alquimista_capítulos/O_alquimista_capítulos.board",
+      "title": "O_alquimista_capítulos",
+      "parent": "mtxk5z51dnojiw",
+      "order": 0
+    },
+    {
+      "id": "mug3h41yt4ta48",
+      "x": -6648,
+      "y": -1152,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-11.png",
+      "parent": "mueqkqsrj7e0m8",
+      "order": 1
+    },
+    {
+      "id": "mug3lwjetgwlxi",
+      "x": -7584,
+      "y": -1248,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-12.png",
+      "parent": "mtxb9h0w96e6wu",
+      "order": 0
+    }
+  ],
+  "edges": []
+}

@@ -1,5 +1,96 @@
 {
   "version": 1,
-  "items": [],
+  "items": [
+    {
+      "id": "mueqotcwlbr7bz",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"Queria explicar como as pessoas nunca são exatamente o que você pensa delas.\"\n",
+      "parent": "mueqouskrurvbi",
+      "order": 0
+    },
+    {
+      "id": "mueqouskrurvbi",
+      "x": -7512,
+      "y": -1224,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 1"
+    },
+    {
+      "id": "mueqrdhtqn0wge",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"E no meio deles, com o corpo imundo, o cabelo emaranhado e o nariz precisando ser assoado, Ralph chorava o fim da inocência, as trevas do coração humano, e a queda no abismo do amigo sincero e ajuizado chamado Porquinho.\"\n",
+      "parent": "mueqrdhttv1ywn",
+      "order": 0
+    },
+    {
+      "id": "mueqrdhttv1ywn",
+      "x": -7176,
+      "y": -1224,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 2"
+    },
+    {
+      "id": "mueqrvazdc3s5s",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"O braço de Roger ainda era condicionado por uma civilização que desconhecia a sua existência e vinha caindo em ruínas.\"\n",
+      "parent": "mueqrvazqcic3f",
+      "order": 0
+    },
+    {
+      "id": "mueqrvazqcic3f",
+      "x": -6840,
+      "y": -1224,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 3"
+    },
+    {
+      "id": "mueqs80xtai063",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"O que vocês preferem, a lei e serem salvos, ou caçar e acabar com tudo?\"\n",
+      "parent": "mueqs80xu8k398",
+      "order": 0
+    },
+    {
+      "id": "mueqs80xu8k398",
+      "x": -7512,
+      "y": -1008,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 4"
+    },
+    {
+      "id": "mueqsxgvcqp054",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"De um lado o mundo fascinante da caça, das táticas, da alegria feroz, da habilidade; e do outro o mundo dos desejos e do senso comum frustrado.\"\n",
+      "parent": "mueqsxgvtcufsf",
+      "order": 0
+    },
+    {
+      "id": "mueqsxgvtcufsf",
+      "x": -6840,
+      "y": -1008,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 5"
+    }
+  ],
   "edges": []
 }

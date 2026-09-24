@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtxpxe5x2f66fp",
+      "x": -8664,
+      "y": -1752,
+      "w": 432,
+      "type": "column",
+      "title": "Capítulo 1: O som da Concha",
+      "h": 384
+    },
+    {
+      "id": "mtxpy11zr0jf8u",
+      "x": -8400,
+      "y": -1392,
+      "w": 260,
+      "type": "note",
+      "text": "Ralph, enquanto fazia uma breve caminhada pela ilha, acaba se deparando com Porquinho, com quem começa a explorar a beleza do local. Durante essa breve exploração, eles encontram uma concha, e Porquinho dá a ideia de utilizá-la para produzir um som capaz de chamar as outras crianças. Após Ralph soar a concha, consegue chamar a atenção das crianças, fazendo com que elas se juntem a ele, tendo como maior destaque um grupo de crianças lideradas por Jack, chamadas de coro/caçadores.\n\nEm seguida, ocorre uma breve votação, na qual Ralph é eleito como líder. Ele decide que ele, Jack e Simon vão explorar a ilha. Durante a exploração, além de descobrirem novos locais, conseguem confirmar que realmente estavam presos. Ao final, eles retornam para a \"base\" para realizar uma nova reunião.",
+      "parent": "mtxpxe5x2f66fp",
+      "order": 0
+    }
+  ],
+  "edges": []
+}

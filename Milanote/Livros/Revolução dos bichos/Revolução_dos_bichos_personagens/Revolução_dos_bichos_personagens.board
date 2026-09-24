@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtxcumndnxypo5",
+      "x": -9384,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Ralph"
+    },
+    {
+      "id": "mtxczmx25p99o0",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Ralph]]",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mtxcumndnxypo5"
+    },
+    {
+      "id": "mtxd606scblczh",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Infantil, Alegre, Brincalhão\n- Ralph representa a tentativa da ordem;\n- Faz bananeira quando fica muito feliz\n- Se tornou o líder dos meninos\n- É o mais responsável \n- O seu pai tem u alto cargo na marinha\n- Provavelmente veio de uma família rica, já que no seu jardim havia pôneis ",
+      "parent": "mtxcumndnxypo5",
+      "order": 2
+    }
+  ],
+  "edges": []
+}

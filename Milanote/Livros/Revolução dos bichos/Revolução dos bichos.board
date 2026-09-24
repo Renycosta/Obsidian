@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mtxawlkiptxubh",
+      "x": -7248,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Sinopse",
+      "h": 96
+    },
+    {
+      "id": "mtxay1xgi5wwcn",
+      "x": -7224,
+      "y": -1200,
+      "w": 260,
+      "type": "note",
+      "text": "George Orwell, habilidoso mestre da sátira e da alegoria, presenteia os leitores com uma fábula ambientada em uma fazenda onde os animais, exaustos da opressão humana, decidem se unir em busca de uma utopia igualitária. Publicado pela primeira vezem 1945, o enredo engenhoso deste clássico apresenta uma perspectiva única acerca da política e da natureza humana. Surpreendentemente atual, a trama de Orwell reforça a transformação gradual de uma rebelião idealista que se revela, ao mesmo tempo, como uma advertência atemporal contra os perigos do abuso e da concentração de poder, bem como da manipulação da verdade e a inevitabilidade da corrupção quando se busca o poder absoluto.",
+      "parent": "mtxawlkiptxubh",
+      "order": 0,
+      "showTitle": false,
+      "title": "Note"
+    },
+    {
+      "id": "mtxb9h0w96e6wu",
+      "x": -7560,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Informações gerais",
+      "h": 96
+    },
+    {
+      "id": "mtxb9h0wrkg3d5",
+      "x": -7512,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Revolução_dos_bichos_info]]",
+      "parent": "mtxb9h0w96e6wu",
+      "order": 2,
+      "showTitle": false,
+      "title": "Note"
+    },
+    {
+      "id": "mtxby2763e5caf",
+      "x": -6936,
+      "y": -1272,
+      "w": 300,
+      "type": "column",
+      "title": "Personagens"
+    },
+    {
+      "id": "mtxbzvfvqcjr24",
+      "x": -6936,
+      "y": -936,
+      "w": 300,
+      "type": "column",
+      "title": "Citações"
+    },
+    {
+      "id": "mtxk5z51dnojiw",
+      "x": -6936,
+      "y": -1104,
+      "w": 300,
+      "type": "column",
+      "title": "Capítulos"
+    },
+    {
+      "id": "mueqkqsrj7e0m8",
+      "x": -6600,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Autor (William golding)",
+      "h": 96
+    },
+    {
+      "id": "mueqmfzozd7fre",
+      "x": -6576,
+      "y": -984,
+      "w": 260,
+      "type": "note",
+      "text": "George Orwell, pseudônimo de Eric Arthur Blair, foi um escritor e jornalista inglês conhecido por suas obras satíricas e críticas sociais. Além de \"1984\", Orwell é famoso por \"A Revolução dos Bichos\" e seus ensaios políticos e jornalísticos que exploram questões de poder, autoritarismo e liberdade. Sua vida foi marcada por experiências que moldaram suas visões políticas, incluindo seu tempo como combatente na Guerra Civil Espanhola e sua preocupação com o totalitarismo e a manipulação da verdade.",
+      "parent": "mueqkqsrj7e0m8",
+      "order": 2
+    },
+    {
+      "id": "muer33094u20im",
+      "x": -6864,
+      "y": -912,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/Revolução dos bichos/Revolução_dos_bichos_citações/Revolução_dos_bichos_citacoes.board",
+      "title": "Revolução_dos_bichos_citacoes",
+      "parent": "mtxbzvfvqcjr24",
+      "order": 0
+    },
+    {
+      "id": "muer3dr66umfpb",
+      "x": -6912,
+      "y": -1080,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/Revolução dos bichos/Revolução_dos_bichos_capítulos/Revolução_dos_bichos_capítulos.board",
+      "title": "Revolução_dos_bichos_capítulos",
+      "parent": "mtxk5z51dnojiw",
+      "order": 0
+    },
+    {
+      "id": "muer3l9gvy9b1d",
+      "x": -6864,
+      "y": -1248,
+      "w": 220,
+      "type": "board",
+      "path": "Milanote/Livros/Revolução dos bichos/Revolução_dos_bichos_personagens/Revolução_dos_bichos_personagens.board",
+      "title": "Revolução_dos_bichos_personagens",
+      "parent": "mtxby2763e5caf",
+      "order": 0
+    },
+    {
+      "id": "muerj41vxff5e9",
+      "x": -7560,
+      "y": -1176,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-9.png",
+      "parent": "mtxb9h0w96e6wu",
+      "order": 0
+    },
+    {
+      "id": "muerjlfdxjciy0",
+      "x": -6624,
+      "y": -1200,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-10.png",
+      "parent": "mueqkqsrj7e0m8",
+      "order": 1
+    }
+  ],
+  "edges": []
+}

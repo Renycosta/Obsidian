@@ -16,7 +16,7 @@
       "w": 260,
       "type": "note",
       "text": "![[Ralph]]",
-      "order": 0,
+      "order": 1,
       "showTitle": false,
       "title": "Note",
       "parent": "mtxcumndnxypo5"
@@ -27,9 +27,9 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Infantil, Alegre, Brincalhão\n- Faz bananeira quando fica muito feliz\n- Se tornou o líder dos meninos\n- É o mais responsável \n- O seu pai tem u alto cargo na marinha\n- Provavelmente veio de uma família rica, já que no seu jardim havia pôneis ",
+      "text": "- Personalidade: Infantil, Alegre, Brincalhão\n- Ralph representa a tentativa da ordem;\n- Faz bananeira quando fica muito feliz\n- Se tornou o líder dos meninos\n- É o mais responsável \n- O seu pai tem u alto cargo na marinha\n- Provavelmente veio de uma família rica, já que no seu jardim havia pôneis ",
       "parent": "mtxcumndnxypo5",
-      "order": 1
+      "order": 2
     },
     {
       "id": "mtxjxik05fkdm6",
@@ -46,7 +46,7 @@
       "w": 260,
       "type": "note",
       "text": "![[Porquinho]]",
-      "order": 0,
+      "order": 1,
       "showTitle": false,
       "title": "Note",
       "parent": "mtxjxik05fkdm6"
@@ -57,9 +57,9 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Infantil, tímido, ansioso, pessimista\n- Tem asma\n- Vive com a tia\n- Autor: \"Porquinho era mesmo um chato; sua gordura, a tal asa má e aquelas ideias bestas não tinham a menor graça; mas algum prazer sempre se tirava de implicar um pouco com ele, mesmo que por acaso\" (pag.: 69)\n- O porquinho não era considerado parte da turma devido sua personalidade e físico\n- Odeia o Jack",
+      "text": "- Personalidade: Infantil, tímido, ansioso, pessimista\n- Porquinho representa a mediação;\n- Tem asma\n- Vive com a tia\n- Autor: \"Porquinho era mesmo um chato; sua gordura, a tal asa má e aquelas ideias bestas não tinham a menor graça; mas algum prazer sempre se tirava de implicar um pouco com ele, mesmo que por acaso\" (pag.: 69)\n- O porquinho não era considerado parte da turma devido sua personalidade e físico\n- Odeia o Jack",
       "parent": "mtxjxik05fkdm6",
-      "order": 1
+      "order": 2
     },
     {
       "id": "mtxql1w9yzxp5t",
@@ -76,7 +76,7 @@
       "w": 260,
       "type": "note",
       "text": "![[Jack]]",
-      "order": 0,
+      "order": 1,
       "showTitle": false,
       "title": "Note",
       "parent": "mtxql1w9yzxp5t"
@@ -87,9 +87,9 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Infantil, raivoso, arrogante\n- Rosto compacto e sardento\n- Líder de um grupo de crianças chamadas de coro/caçadores\n- Jack tem uma estranha compulsão em perseguir e matar\n- Por mais que ele tenha essa personalidade mais irritada, devido ao fato dele ter a mentalidade, no qual ingleses são superiores e mais civilizados ele não gosta de extravasar suas emoções\n- Odeia o Porquinho",
+      "text": "- Personalidade: Infantil, raivoso, arrogante\n- Jack representa a desordem, o caos e até certo ponto a masculinidade primitiva\n- Rosto compacto e sardento\n- Líder de um grupo de crianças chamadas de coro/caçadores\n- Jack tem uma estranha compulsão em perseguir e matar\n- Por mais que ele tenha essa personalidade mais irritada, devido ao fato dele ter a mentalidade, no qual ingleses são superiores e mais civilizados ele não gosta de extravasar suas emoções\n- Odeia o Porquinho",
       "parent": "mtxql1w9yzxp5t",
-      "order": 1
+      "order": 2
     },
     {
       "id": "mu31giwvofigo1",
@@ -106,7 +106,7 @@
       "w": 260,
       "type": "note",
       "text": "![[Simon]]",
-      "order": 0,
+      "order": 1,
       "showTitle": false,
       "title": "Note",
       "parent": "mu31giwvofigo1"
@@ -117,13 +117,13 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Fazia parte do coro antes mesmo de chegar a ilha\n- Tinha o costume de desmaiar quando estava com o coro/caçadores\n- Está sempre ajudando os seus amigos\n- Ralph: \"Ele é estranho. É diferente\" (pag.: 69)",
+      "text": "- Fazia parte do coro antes mesmo de chegar a ilha\n- Simon representa a humanidade\n- Tinha o costume de desmaiar quando estava com o coro/caçadores\n- Está sempre ajudando os seus amigos\n- Ralph: \"Ele é estranho. É diferente\" (pag.: 69)",
       "parent": "mu31giwvofigo1",
-      "order": 1
+      "order": 2
     },
     {
       "id": "mubhc0ne6mrpla",
-      "x": -8016,
+      "x": -8040,
       "y": -1656,
       "w": 300,
       "type": "column",
@@ -138,6 +138,56 @@
       "text": "- O senhor das moscas é uma \"criatura\" formada por uma estaca de madeira que em sua ponta está a cabeça de uma porca decapitada possui dentes brancos, olhos opacos, sangue escorrendo pela estaca e as moscas cercando a cabeça\n- Criado por Jack como uma oferenda ao monstro\n- Representa o lado selvagem e violento que existe dentro dos próprios meninos, mostrando que a ameaça que eles tanto temem não está necessariamente relacionada a uma criatura externa, mas ao comportamento que eles próprios estão desenvolvendo.\n",
       "parent": "mubhc0ne6mrpla",
       "order": 1
+    },
+    {
+      "id": "muc1it97akdrez",
+      "x": -9360,
+      "y": -1608,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-1.png",
+      "parent": "mtxcumndnxypo5",
+      "order": 0
+    },
+    {
+      "id": "muc1x6ih18nt1v",
+      "x": -9096,
+      "y": -1656,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-2.png",
+      "parent": "mtxjxik05fkdm6",
+      "order": 0
+    },
+    {
+      "id": "muc281n0ipoqcn",
+      "x": -8424,
+      "y": -1608,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-4.png",
+      "parent": "mu31giwvofigo1",
+      "order": 0
+    },
+    {
+      "id": "muc28qhbu7mkxt",
+      "x": -8736,
+      "y": -1560,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-5.png",
+      "parent": "mtxql1w9yzxp5t",
+      "order": 0
+    },
+    {
+      "id": "muc2coelcupumw",
+      "x": -8016,
+      "y": -1656,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-6.png",
+      "parent": "mubhc0ne6mrpla",
+      "order": 0
     }
   ],
   "edges": []

@@ -109,6 +109,35 @@
       "title": "Senhor_das_moscas_capítulos",
       "parent": "mtxk5z51dnojiw",
       "order": 0
+    },
+    {
+      "id": "mueqkqsrj7e0m8",
+      "x": -6600,
+      "y": -1272,
+      "w": 288,
+      "type": "column",
+      "title": "Autor (William golding)",
+      "h": 96
+    },
+    {
+      "id": "mueqmfzozd7fre",
+      "x": -6600,
+      "y": -912,
+      "w": 260,
+      "type": "note",
+      "text": "Nascido na Cornualha, Inglaterra, William Golding começou a escrever aos sete anos de idade. Embora tenha estudado ciências naturais em Oxford para agradar aos pais, ele também estudou língua inglesa e publicou seu primeiro livro — uma coletânea de poemas — antes de concluir a faculdade. Serviu na Marinha Real durante a Segunda Guerra Mundial, participando da invasão da Normandia. Entre os outros romances de Golding estão *O Senhor das Moscas*, *Os Herdeiros*, *A Queda Livre*, *Pincher Martin*, *A Língua Dupla* e *Ritos de Passagem*, obra que conquistou o Prêmio Booker.",
+      "parent": "mueqkqsrj7e0m8",
+      "order": 2
+    },
+    {
+      "id": "mueqmxhovvip5y",
+      "x": -6624,
+      "y": -1200,
+      "w": 280,
+      "type": "image",
+      "path": "Maguilanote Assets/image-7.png",
+      "parent": "mueqkqsrj7e0m8",
+      "order": 0
     }
   ],
   "edges": []

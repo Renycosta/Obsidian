@@ -3,12 +3,23 @@
   "items": [
     {
       "id": "mtxkab5lhh9n2t",
-      "x": 528,
-      "y": 240,
+      "x": 144,
+      "y": 168,
       "w": 144,
       "type": "board",
       "path": "Milanote/Livros/Senhor das moscas/Senhor das moscas.board",
       "title": "Senhor das moscas",
+      "h": 48,
+      "color": "green"
+    },
+    {
+      "id": "mueqy77iy4rhm2",
+      "x": 336,
+      "y": 168,
+      "w": 144,
+      "type": "board",
+      "path": "Milanote/Livros/Revolução dos bichos/Revolução dos bichos.board",
+      "title": "Revolução dos bichos",
       "h": 48,
       "color": "blue"
     }
