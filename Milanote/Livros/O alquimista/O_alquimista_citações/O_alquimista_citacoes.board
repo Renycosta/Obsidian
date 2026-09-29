@@ -7,7 +7,7 @@
       "y": -840,
       "w": 260,
       "type": "note",
-      "text": "\"Queria explicar como as pessoas nunca são exatamente o que você pensa delas.\"\n",
+      "text": "\"- Existem três tipos de alquimistas... \n- Aqueles que são vagos porque não sabem o que estão falando; \n- Aqueles que são vagos porque sabem o que estão falando, mas sabem também que a linguagem da Alquimia é uma linguagem dirigida ao coração, e não à razão...\n- Aqueles que jamais ouviram falar em Alquimia, mas que conseguiram, através de suas vidas, descobrir a Pedra Filosofal.\"\n",
       "parent": "mueqouskrurvbi",
       "order": 0
     },
@@ -25,7 +25,7 @@
       "y": -840,
       "w": 260,
       "type": "note",
-      "text": "\"E no meio deles, com o corpo imundo, o cabelo emaranhado e o nariz precisando ser assoado, Ralph chorava o fim da inocência, as trevas do coração humano, e a queda no abismo do amigo sincero e ajuizado chamado Porquinho.\"\n",
+      "text": "\"E justamente a possibilidade de realizar um sonho que torna a vida interessante\"\n",
       "parent": "mueqrdhttv1ywn",
       "order": 0
     },
@@ -43,53 +43,17 @@
       "y": -840,
       "w": 260,
       "type": "note",
-      "text": "\"O braço de Roger ainda era condicionado por uma civilização que desconhecia a sua existência e vinha caindo em ruínas.\"\n",
+      "text": "\"quando todos os dias ficam iguais é porque as pessoas deixaram de perceber as coisas boas que aparecem em suas vidas sempre que o sol cruza o céu\"\n",
       "parent": "mueqrvazqcic3f",
       "order": 0
     },
     {
       "id": "mueqrvazqcic3f",
-      "x": -6840,
-      "y": -1224,
+      "x": -7176,
+      "y": -1056,
       "w": 300,
       "type": "column",
       "title": "Citação 3"
-    },
-    {
-      "id": "mueqs80xtai063",
-      "x": -7248,
-      "y": -840,
-      "w": 260,
-      "type": "note",
-      "text": "\"O que vocês preferem, a lei e serem salvos, ou caçar e acabar com tudo?\"\n",
-      "parent": "mueqs80xu8k398",
-      "order": 0
-    },
-    {
-      "id": "mueqs80xu8k398",
-      "x": -7512,
-      "y": -1008,
-      "w": 300,
-      "type": "column",
-      "title": "Citação 4"
-    },
-    {
-      "id": "mueqsxgvcqp054",
-      "x": -7248,
-      "y": -840,
-      "w": 260,
-      "type": "note",
-      "text": "\"De um lado o mundo fascinante da caça, das táticas, da alegria feroz, da habilidade; e do outro o mundo dos desejos e do senso comum frustrado.\"\n",
-      "parent": "mueqsxgvtcufsf",
-      "order": 0
-    },
-    {
-      "id": "mueqsxgvtcufsf",
-      "x": -6840,
-      "y": -1008,
-      "w": 300,
-      "type": "column",
-      "title": "Citação 5"
     }
   ],
   "edges": []

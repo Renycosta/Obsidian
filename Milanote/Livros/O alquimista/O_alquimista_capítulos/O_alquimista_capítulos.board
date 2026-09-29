@@ -3,11 +3,11 @@
   "items": [
     {
       "id": "mtxpxe5x2f66fp",
-      "x": -8664,
-      "y": -1752,
+      "x": -10176,
+      "y": -1872,
       "w": 432,
       "type": "column",
-      "title": "Capítulo 1: O som da Concha",
+      "title": "Primeira parte",
       "h": 384
     },
     {
@@ -16,8 +16,27 @@
       "y": -1392,
       "w": 260,
       "type": "note",
-      "text": "Ralph, enquanto fazia uma breve caminhada pela ilha, acaba se deparando com Porquinho, com quem começa a explorar a beleza do local. Durante essa breve exploração, eles encontram uma concha, e Porquinho dá a ideia de utilizá-la para produzir um som capaz de chamar as outras crianças. Após Ralph soar a concha, consegue chamar a atenção das crianças, fazendo com que elas se juntem a ele, tendo como maior destaque um grupo de crianças lideradas por Jack, chamadas de coro/caçadores.\n\nEm seguida, ocorre uma breve votação, na qual Ralph é eleito como líder. Ele decide que ele, Jack e Simon vão explorar a ilha. Durante a exploração, além de descobrirem novos locais, conseguem confirmar que realmente estavam presos. Ao final, eles retornam para a \"base\" para realizar uma nova reunião.",
+      "text": "Santiago encontra uma igreja abandonada ao entardecer e decide dormir ali com suas ovelhas. Ao acordar, lembra-se da moça por quem está apaixonado, filha de um comerciante de tecidos que havia conhecido quando foi vender lã de suas ovelhas.\n\nSantiago vem de uma família simples de camponeses que desejava que ele se tornasse padre, mas desde pequeno tinha vontade de conhecer o mundo. Seu pai, ao perceber esse desejo, lhe dá algumas moedas e o abençoa para que siga sua jornada como pastor.\n\nDurante sua viagem, Santiago procura uma velha que afirma saber interpretar sonhos. Ele conta que sonhou com um menino que o levou até as pirâmides do Egito e lhe mostrou um tesouro escondido. A velha interpreta o sonho e diz que Santiago deveria procurar o tesouro nas pirâmides, pedindo como pagamento uma parte dele caso fosse encontrado. Santiago, porém, fica decepcionado com a resposta.\n\nMais tarde, enquanto descansa em uma praça, Santiago conhece Melquisedec, um homem que afirma ser o rei de Salém. O velho demonstra conhecer detalhes da vida de Santiago e explica o conceito de Lenda Pessoal, que representa aquilo que uma pessoa deseja realizar em sua vida. Segundo ele, muitas pessoas acabam abandonando seus sonhos por causa das dificuldades e das circunstâncias da vida.\n\nMelquisedec se oferece para ajudar Santiago a encontrar o tesouro em troca de uma parte de suas ovelhas. Ele também explica que Santiago precisa aprender a reconhecer os sinais que aparecem durante sua jornada. Depois de decidir seguir seu sonho, Santiago vende algumas de suas ovelhas e entrega o restante a Melquisedec. Antes de partir, o velho lhe entrega duas pedras, chamadas Urim e Tumim, que poderão ajudá-lo quando tiver dificuldade para interpretar os sinais.\n\nMelquisedec também conta a Santiago uma história sobre um jovem que recebe a tarefa de carregar uma colher com óleo enquanto observa as maravilhas de um palácio. A história mostra que o segredo da felicidade está em conhecer as maravilhas do mundo sem esquecer das responsabilidades que estão sob seus cuidados.\n\nSantiago parte para a África em busca das pirâmides. Por não conhecer a língua local, entra em um bar e encontra um homem que fala espanhol. O homem se oferece para ajudá-lo a chegar até as pirâmides, mas Santiago precisaria atravessar o deserto e comprar camelos.\n\nEnquanto caminham pela cidade, Santiago confia no homem e não percebe que ele está planejando roubá-lo. O homem desaparece levando todo o seu dinheiro. Santiago fica abalado e pensa em desistir de sua jornada, mas se lembra das pedras que Melquisedec havia lhe dado e recupera parte de sua confiança.\n\nSem dinheiro e sem saber o que fazer, Santiago encontra uma loja de cristais. Ele oferece seu trabalho ao comerciante em troca de comida e começa limpando os cristais da loja. Depois, os dois vão comer, e o comerciante explica que Santiago precisaria de muito mais dinheiro para conseguir chegar até as pirâmides. Por isso, oferece a ele um trabalho na loja de cristais.",
       "parent": "mtxpxe5x2f66fp",
+      "order": 0
+    },
+    {
+      "id": "munb3r5robqbog",
+      "x": -9672,
+      "y": -1872,
+      "w": 432,
+      "type": "column",
+      "title": "Segunda parte",
+      "h": 384
+    },
+    {
+      "id": "munb3r5rstz6yn",
+      "x": -8400,
+      "y": -1392,
+      "w": 260,
+      "type": "note",
+      "text": "",
+      "parent": "munb3r5robqbog",
       "order": 0
     }
   ],

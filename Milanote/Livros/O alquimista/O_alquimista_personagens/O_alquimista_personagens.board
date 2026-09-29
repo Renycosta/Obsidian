@@ -3,11 +3,11 @@
   "items": [
     {
       "id": "mtxcumndnxypo5",
-      "x": -9384,
+      "x": -9936,
       "y": -1656,
       "w": 300,
       "type": "column",
-      "title": "Ralph"
+      "title": "Santiago"
     },
     {
       "id": "mtxczmx25p99o0",
@@ -15,7 +15,7 @@
       "y": -1248,
       "w": 260,
       "type": "note",
-      "text": "![[Ralph]]",
+      "text": "![[Santiago]]",
       "order": 1,
       "showTitle": false,
       "title": "Note",
@@ -27,8 +27,38 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Infantil, Alegre, Brincalhão\n- Ralph representa a tentativa da ordem;\n- Faz bananeira quando fica muito feliz\n- Se tornou o líder dos meninos\n- É o mais responsável \n- O seu pai tem u alto cargo na marinha\n- Provavelmente veio de uma família rica, já que no seu jardim havia pôneis ",
+      "text": "- Personalidade: Curioso, Aventureiro, Sonhador e Independente\n- Tornou-se pastor apesar de sua família desejar que se tornasse padre.\n- Está apaixonado pela filha de um comerciante",
       "parent": "mtxcumndnxypo5",
+      "order": 2
+    },
+    {
+      "id": "mun5j2l5suooyy",
+      "x": -9576,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Melquisedec"
+    },
+    {
+      "id": "mun5j2l5siz2mz",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Melquisedec]]",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mun5j2l5suooyy"
+    },
+    {
+      "id": "mun5j2l5ixspcr",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Misterioso, Convincente,\nObservador e Confiante\n- Consegue ler pensamentos \n- Consegue se transformar",
+      "parent": "mun5j2l5suooyy",
       "order": 2
     }
   ],
