@@ -27,13 +27,13 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Curioso, Aventureiro, Sonhador e Independente\n- Tornou-se pastor apesar de sua família desejar que se tornasse padre.\n- Está apaixonado pela filha de um comerciante",
+      "text": "- Personalidade: Curioso, aventureiro, sonhador e independente.\n- Tornou-se pastor, apesar de sua família desejar que se tornasse padre.\n- Está apaixonado por Fátima.\n- Busca realizar sua Lenda Pessoal e encontrar um tesouro.",
       "parent": "mtxcumndnxypo5",
       "order": 2
     },
     {
       "id": "mun5j2l5suooyy",
-      "x": -9576,
+      "x": -9600,
       "y": -1656,
       "w": 300,
       "type": "column",
@@ -57,8 +57,158 @@
       "y": -1080,
       "w": 260,
       "type": "note",
-      "text": "- Personalidade: Misterioso, Convincente,\nObservador e Confiante\n- Consegue ler pensamentos \n- Consegue se transformar",
+      "text": "- Personalidade: Sábio, misterioso, persuasivo e observador.\n- Encontra Santiago quando ele ainda trabalha como pastor.\n- Apresenta o conceito de Lenda Pessoal.\n- Incentiva Santiago a perseguir seu sonho e o ajuda a dar os primeiros passos em sua jornada.",
       "parent": "mun5j2l5suooyy",
+      "order": 2
+    },
+    {
+      "id": "mv15zyj7o362op",
+      "x": -9264,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Comerciante de cristais"
+    },
+    {
+      "id": "mv15zyj72klgxd",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Comerciante de cristais]]",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mv15zyj7o362op"
+    },
+    {
+      "id": "mv15zyj7sqzy14",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Cauteloso, religioso, acomodado e sonhador.\n- Contrata Santiago depois que ele perde seu dinheiro em Tânger.\n- Deseja realizar uma peregrinação a Meca, mas teme as mudanças que isso traria à sua vida.\n- Representa alguém que possui um sonho, mas tem receio de realizá-lo.",
+      "parent": "mv15zyj7o362op",
+      "order": 2
+    },
+    {
+      "id": "mv164f0d0tfkie",
+      "x": -8928,
+      "y": -1656,
+      "w": 300,
+      "type": "column",
+      "title": "Inglês"
+    },
+    {
+      "id": "mv164f0dezrucu",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Inglês]]",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mv164f0d0tfkie"
+    },
+    {
+      "id": "mv164f0dz8urip",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Estudioso, determinado, intelectual e impaciente.\n- Viaja em busca de um alquimista que possa ajudá-lo a compreender os segredos da alquimia.\n- Dedica-se aos livros e ao conhecimento teórico.\n- Contrasta com Santiago, que aprende principalmente por meio das experiências e da observação do mundo.",
+      "parent": "mv164f0d0tfkie",
+      "order": 2
+    },
+    {
+      "id": "mv1g81ithmsyak",
+      "x": -9600,
+      "y": -1104,
+      "w": 300,
+      "type": "column",
+      "title": "Fátima"
+    },
+    {
+      "id": "mv1g81itjds3ta",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Fátima]]",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mv1g81ithmsyak"
+    },
+    {
+      "id": "mv1g81it0xd05v",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Paciente, amorosa, confiante e independente.\n- Vive no oásis de Al-Fayoum.\n- Apaixona-se por Santiago quando ele chega ao oásis.\n- Compreende a importância de Santiago seguir seu caminho e realizar sua Lenda Pessoal.",
+      "parent": "mv1g81ithmsyak",
+      "order": 2
+    },
+    {
+      "id": "mv1gal9jv0opb0",
+      "x": -9936,
+      "y": -1104,
+      "w": 300,
+      "type": "column",
+      "title": "Cameleiro"
+    },
+    {
+      "id": "mv1gal9ja1uecv",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Cameleiro]]",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mv1gal9jv0opb0"
+    },
+    {
+      "id": "mv1gal9khhe3l8",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Prático, tranquilo, sábio e resiliente.\n- Perdeu sua antiga vida após uma catástrofe atingir sua região.\n- Aprendeu a aceitar as incertezas e a viver o presente.\n- Ajuda Santiago a compreender a importância de observar o momento atual e aceitar aquilo que não pode controlar.",
+      "parent": "mv1gal9jv0opb0",
+      "order": 2
+    },
+    {
+      "id": "mv1gjb9pjlqfij",
+      "x": -9264,
+      "y": -1104,
+      "w": 300,
+      "type": "column",
+      "title": "Alquimista"
+    },
+    {
+      "id": "mv1gjb9pzozoz7",
+      "x": -7632,
+      "y": -1248,
+      "w": 260,
+      "type": "note",
+      "text": "![[Alquimista]]",
+      "order": 1,
+      "showTitle": false,
+      "title": "Note",
+      "parent": "mv1gjb9pjlqfij"
+    },
+    {
+      "id": "mv1gjb9psrjxys",
+      "x": -8304,
+      "y": -1080,
+      "w": 260,
+      "type": "note",
+      "text": "- Personalidade: Sábio, misterioso, confiante e enigmático.\n- Vive no oásis de Al-Fayoum e possui grande conhecimento sobre a alquimia.\n- Orienta Santiago durante parte de sua jornada pelo deserto.\n- Ensina que é necessário compreender os sinais do mundo e ter coragem para seguir a própria Lenda Pessoal.",
+      "parent": "mv1gjb9pjlqfij",
       "order": 2
     }
   ],

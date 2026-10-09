@@ -31,8 +31,8 @@
     },
     {
       "id": "mueqrdhttv1ywn",
-      "x": -7176,
-      "y": -1224,
+      "x": -7512,
+      "y": -840,
       "w": 300,
       "type": "column",
       "title": "Citação 2"
@@ -49,11 +49,101 @@
     },
     {
       "id": "mueqrvazqcic3f",
-      "x": -7176,
-      "y": -1056,
+      "x": -7512,
+      "y": -672,
       "w": 300,
       "type": "column",
       "title": "Citação 3"
+    },
+    {
+      "id": "muysyihzywk3v8",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"Porque não vivo nem no meu passado nem no meu futuro. Tenho apenas o presente, e ele o que me interessa. Se você puder permanecer sempre no presente, então será um homem feliz\"\n",
+      "parent": "muysyii04nxg1z",
+      "order": 0
+    },
+    {
+      "id": "muysyii04nxg1z",
+      "x": -7176,
+      "y": -1224,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 4"
+    },
+    {
+      "id": "mv14z4wln577hq",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"É porque sou um coração de homem, e os corações de homem são assim. Têm medo de realizar seus maiores sonhos, porque acham que não merecem, ou não vão consegui-lo\"\n",
+      "parent": "mv14z4wl5p2l89",
+      "order": 0
+    },
+    {
+      "id": "mv14z4wl5p2l89",
+      "x": -7176,
+      "y": -1008,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 5"
+    },
+    {
+      "id": "mv1538sxawm23m",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"Só existe uma maneira de aprender. É através da ação. Tudo o que você precisava saber, a viagem lhe ensinou.\"\n",
+      "parent": "mv1538sxecwx08",
+      "order": 0
+    },
+    {
+      "id": "mv1538sxecwx08",
+      "x": -7176,
+      "y": -792,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 6"
+    },
+    {
+      "id": "mv155ik8on2z7c",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"Jamais repita isso. A vida pode escutar e lhe dar menos da próxima vez\"\n",
+      "parent": "mv155ik8vnbnm1",
+      "order": 0
+    },
+    {
+      "id": "mv155ik8vnbnm1",
+      "x": -7176,
+      "y": -624,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 7"
+    },
+    {
+      "id": "mv157a4vrdovbc",
+      "x": -7248,
+      "y": -840,
+      "w": 260,
+      "type": "note",
+      "text": "\"Tudo o que acontece uma vez, pode nunca mais acontecer. Mas tudo que já acontece duas vezes, acontecerá uma terceira\"\n",
+      "parent": "mv157a4v400j3l",
+      "order": 0
+    },
+    {
+      "id": "mv157a4v400j3l",
+      "x": -6840,
+      "y": -1224,
+      "w": 300,
+      "type": "column",
+      "title": "Citação 8"
     }
   ],
   "edges": []
